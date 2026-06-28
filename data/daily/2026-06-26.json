@@ -1,0 +1,33 @@
+{
+  "date": "2026-06-26",
+  "title": "ROBOT HOT 日报 — 2026-06-26",
+  "totalItems": 2,
+  "sections": [
+    {
+      "key": "humanoid",
+      "label": "人形机器人",
+      "emoji": "🤖",
+      "count": 2,
+      "items": [
+        {
+          "title": "Video Friday: Give Robots a Hand",
+          "titleCn": "Video Friday: Give Robots a Hand",
+          "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
+          "summaryCn": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
+          "source": "IEEE Spectrum",
+          "link": "https://spectrum.ieee.org/video-friday-robot-grippers",
+          "type": "industry"
+        },
+        {
+          "title": "BMW’s smart factory in US gets Figure 03 humanoid robot for advanced logistics work",
+          "titleCn": "BMW’s smart factory in US gets Figure 03 humanoid robot for advanced logistics work",
+          "summary": "BMW deploys Figure 03 humanoid robot in US production, expanding Physical AI with advanced logistics automation and smart factories. The notable signal is operational: large production changes usually...",
+          "summaryCn": "BMW deploys Figure 03 humanoid robot in US production, expanding Physical AI with advanced logistics automation and smart factories. The notable signal is operational: large production changes usually...",
+          "source": "robot.tv",
+          "link": "https://news.robot.tv/bmws-smart-factory-in-us-gets-figure-03-humanoid-robot-for-advanced-logistics-work/",
+          "type": "industry"
+        }
+      ]
+    }
+  ]
+}

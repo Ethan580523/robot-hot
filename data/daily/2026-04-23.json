@@ -1,0 +1,24 @@
+{
+  "date": "2026-04-23",
+  "title": "ROBOT HOT 日报 — 2026-04-23",
+  "totalItems": 1,
+  "sections": [
+    {
+      "key": "humanoid",
+      "label": "人形机器人",
+      "emoji": "🤖",
+      "count": 1,
+      "items": [
+        {
+          "title": "This Roboticist-Turned-Teacher Built a Life-Size Replica of ENIAC",
+          "titleCn": "This Roboticist-Turned-Teacher Built a Life-Size Replica of ENIAC",
+          "summary": "Tom Burick has always considered himself a builder. Over the years he’s designed robots, constructed a vintage teardrop trailer, and most recently, led a group of students in building a full-scale rep...",
+          "summaryCn": "Tom Burick has always considered himself a builder. Over the years he’s designed robots, constructed a vintage teardrop trailer, and most recently, led a group of students in building a full-scale rep...",
+          "source": "IEEE Spectrum",
+          "link": "https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica",
+          "type": "industry"
+        }
+      ]
+    }
+  ]
+}

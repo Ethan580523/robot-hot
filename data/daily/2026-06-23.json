@@ -1,0 +1,24 @@
+{
+  "date": "2026-06-23",
+  "title": "ROBOT HOT 日报 — 2026-06-23",
+  "totalItems": 1,
+  "sections": [
+    {
+      "key": "humanoid",
+      "label": "人形机器人",
+      "emoji": "🤖",
+      "count": 1,
+      "items": [
+        {
+          "title": "Humanoid Livestream: Robot Makers Rushing To Show Machines On Real Production Lines",
+          "titleCn": "Humanoid Livestream: Robot Makers Rushing To Show Machines On Real Production Lines",
+          "summary": "I see your dancing robot and raise you a robot that can do actual work, live, while being streamed. The notable signal is operational: large production changes usually ripple into automation, software...",
+          "summaryCn": "I see your dancing robot and raise you a robot that can do actual work, live, while being streamed. The notable signal is operational: large production changes usually ripple into automation, software...",
+          "source": "robot.tv",
+          "link": "https://news.robot.tv/humanoid-livestream-robot-makers-rushing-to-show-machines-on-real-production-lines/",
+          "type": "industry"
+        }
+      ]
+    }
+  ]
+}

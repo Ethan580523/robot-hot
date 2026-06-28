@@ -1,0 +1,59 @@
+{
+  "date": "2026-06-12",
+  "title": "ROBOT HOT 日报 — 2026-06-12",
+  "totalItems": 4,
+  "sections": [
+    {
+      "key": "humanoid",
+      "label": "人形机器人",
+      "emoji": "🤖",
+      "count": 3,
+      "items": [
+        {
+          "title": "Video Friday: Robotic Motion Discovery Reveals Unusual Behaviors",
+          "titleCn": "Video Friday: Robotic Motion Discovery Reveals Unusual Behaviors",
+          "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
+          "summaryCn": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
+          "source": "IEEE Spectrum",
+          "link": "https://spectrum.ieee.org/video-friday-humanoid-loco-manipulation",
+          "type": "product"
+        },
+        {
+          "title": "MassRobotics announces the winners of 2026 Robotics Medal and Rising Star awards",
+          "titleCn": "MassRobotics announces the winners of 2026 Robotics Medal and Rising Star awards",
+          "summary": "Allison Okamura and Ayoung Kim won MassRobotics&#039; 2026 Robotics Medal and Rising Star Medal, which honor women in robotics. recent industry reporting is pushing massrobotics announces the winners ...",
+          "summaryCn": "Allison Okamura and Ayoung Kim won MassRobotics&#039; 2026 Robotics Medal and Rising Star Medal, which honor women in robotics. recent industry reporting is pushing massrobotics announces the winners ...",
+          "source": "robot.tv",
+          "link": "https://news.robot.tv/massrobotics-announces-the-winners-of-2026-robotics-medal-and-rising-star-awards/",
+          "type": "product"
+        },
+        {
+          "title": "Two new mini-ROVs are set to explore the inky depths",
+          "titleCn": "Two new mini-ROVs are set to explore the inky depths",
+          "summary": "Featuring an aluminum and ABS body, the X3 Ultra is capable of descending to a maximum depth of 305 meters (1,001 ft), transmitting live 4K/30fps video up a com... New Atlas is pushing two new mini-ro...",
+          "summaryCn": "Featuring an aluminum and ABS body, the X3 Ultra is capable of descending to a maximum depth of 305 meters (1,001 ft), transmitting live 4K/30fps video up a com... New Atlas is pushing two new mini-ro...",
+          "source": "robot.tv",
+          "link": "https://news.robot.tv/two-new-mini-rovs-are-set-to-explore-the-inky-depths/",
+          "type": "product"
+        }
+      ]
+    },
+    {
+      "key": "research",
+      "label": "学术研究",
+      "emoji": "📄",
+      "count": 1,
+      "items": [
+        {
+          "title": "Award-Winning Researcher Trains Robots to Make Educated Guesses",
+          "titleCn": "Award-Winning Researcher Trains Robots to Make Educated Guesses",
+          "summary": "Yen-Ling Kuo always wanted to understand how things worked. When she was growing up in Taiwan, reading the story of Michael Faraday in elementary school piqued her curiosity about the natural world. D...",
+          "summaryCn": "Yen-Ling Kuo always wanted to understand how things worked. When she was growing up in Taiwan, reading the story of Michael Faraday in elementary school piqued her curiosity about the natural world. D...",
+          "source": "IEEE Spectrum",
+          "link": "https://spectrum.ieee.org/researcher-trains-robots-to-guess",
+          "type": "research"
+        }
+      ]
+    }
+  ]
+}

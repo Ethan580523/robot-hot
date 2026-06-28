@@ -1,0 +1,24 @@
+{
+  "date": "2026-04-24",
+  "title": "ROBOT HOT 日报 — 2026-04-24",
+  "totalItems": 1,
+  "sections": [
+    {
+      "key": "research",
+      "label": "学术研究",
+      "emoji": "📄",
+      "count": 1,
+      "items": [
+        {
+          "title": "Video Friday: Who Wins in Robot vs. Pro Ping-Pong Player?",
+          "titleCn": "Video Friday: Who Wins in Robot vs. Pro Ping-Pong Player?",
+          "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
+          "summaryCn": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
+          "source": "IEEE Spectrum",
+          "link": "https://spectrum.ieee.org/video-friday-ping-pong-robot",
+          "type": "research"
+        }
+      ]
+    }
+  ]
+}

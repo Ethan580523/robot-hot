@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-12",
+  "title": "ROBOT HOT 日报 — 2026-05-12",
+  "totalItems": 1,
+  "sections": [
+    {
+      "key": "humanoid",
+      "label": "人形机器人",
+      "emoji": "🤖",
+      "count": 1,
+      "items": [
+        {
+          "title": "Hello Robot Sets the Standard for Practical, Safe Home Robots",
+          "titleCn": "Hello Robot Sets the Standard for Practical, Safe Home Robots",
+          "summary": "Many roboticists (and at least one robotics journalist) have been seduced by the dream of a robot butler. And the rampant popularity of videos showing humanoid robots doing household tasks in improbab...",
+          "summaryCn": "Many roboticists (and at least one robotics journalist) have been seduced by the dream of a robot butler. And the rampant popularity of videos showing humanoid robots doing household tasks in improbab...",
+          "source": "IEEE Spectrum",
+          "link": "https://spectrum.ieee.org/stretch-4-home-robot",
+          "type": "product"
+        }
+      ]
+    }
+  ]
+}

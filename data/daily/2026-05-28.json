@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-28",
+  "title": "ROBOT HOT 日报 — 2026-05-28",
+  "totalItems": 1,
+  "sections": [
+    {
+      "key": "humanoid",
+      "label": "人形机器人",
+      "emoji": "🤖",
+      "count": 1,
+      "items": [
+        {
+          "title": "A guide to Day 1 of the 2026 Robotics Summit &amp; Expo",
+          "titleCn": "A guide to Day 1 of the 2026 Robotics Summit &amp; Expo",
+          "summary": "The 2026 Robotics Summit & Expo opens today in Boston with over 5,000 developers attending, featuring keynotes on robot autonomy and humanoids.",
+          "summaryCn": "The 2026 Robotics Summit & Expo opens today in Boston with over 5,000 developers attending, featuring keynotes on robot autonomy and humanoids.",
+          "source": "robot.tv",
+          "link": "https://news.robot.tv/a-guide-to-day-1-of-the-2026-robotics-summit-expo/",
+          "type": "product"
+        }
+      ]
+    }
+  ]
+}

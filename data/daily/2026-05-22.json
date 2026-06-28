@@ -1,0 +1,42 @@
+{
+  "date": "2026-05-22",
+  "title": "ROBOT HOT 日报 — 2026-05-22",
+  "totalItems": 3,
+  "sections": [
+    {
+      "key": "humanoid",
+      "label": "人形机器人",
+      "emoji": "🤖",
+      "count": 3,
+      "items": [
+        {
+          "title": "Video Friday: Atlas Versus a Fridge",
+          "titleCn": "Video Friday: Atlas Versus a Fridge",
+          "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
+          "summaryCn": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
+          "source": "IEEE Spectrum",
+          "link": "https://spectrum.ieee.org/video-friday-humanoid-robot-learning",
+          "type": "product"
+        },
+        {
+          "title": "UK’s Humanoid partners with Bosch to mass-produce HMND robots for industries",
+          "titleCn": "UK’s Humanoid partners with Bosch to mass-produce HMND robots for industries",
+          "summary": "UK-based Humanoid has partnered with Bosch to mass-produce its HMND humanoid robots for industrial use, following successful proof-of-concept trials in 2026.",
+          "summaryCn": "UK-based Humanoid has partnered with Bosch to mass-produce its HMND humanoid robots for industrial use, following successful proof-of-concept trials in 2026.",
+          "source": "robot.tv",
+          "link": "https://news.robot.tv/uks-humanoid-partners-with-bosch-to-mass-produce-hmnd-robots-for-industries/",
+          "type": "product"
+        },
+        {
+          "title": "GE Vernova to acquire Robotech Automation to expand robotics integration",
+          "titleCn": "GE Vernova to acquire Robotech Automation to expand robotics integration",
+          "summary": "GE Vernova has signed an agreement to acquire Robotech Automation, a systems integrator with 35 employees based in Longueuil, Quebec, to accelerate its robotics and automation capabilities.",
+          "summaryCn": "GE Vernova has signed an agreement to acquire Robotech Automation, a systems integrator with 35 employees based in Longueuil, Quebec, to accelerate its robotics and automation capabilities.",
+          "source": "robot.tv",
+          "link": "https://news.robot.tv/ge-vernova-to-acquire-robotech-automation-to-expand-robotics-integration/",
+          "type": "product"
+        }
+      ]
+    }
+  ]
+}

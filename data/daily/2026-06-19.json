@@ -1,0 +1,58 @@
+{
+  "date": "2026-06-19",
+  "title": "ROBOT HOT 日报 — 2026-06-19",
+  "totalItems": 3,
+  "sections": [
+    {
+      "key": "research",
+      "label": "学术研究",
+      "emoji": "📄",
+      "count": 1,
+      "items": [
+        {
+          "title": "Video Friday: Do Robots Even Need Legs?",
+          "titleCn": "Video Friday: Do Robots Even Need Legs?",
+          "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
+          "summaryCn": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
+          "source": "IEEE Spectrum",
+          "link": "https://spectrum.ieee.org/video-friday-agentic-ai-robot",
+          "type": "industry"
+        }
+      ]
+    },
+    {
+      "key": "industrial",
+      "label": "工业机器人",
+      "emoji": "🏭",
+      "count": 1,
+      "items": [
+        {
+          "title": "What Amazon’s Astro Taught Me About Giving Robots a Soul",
+          "titleCn": "What Amazon’s Astro Taught Me About Giving Robots a Soul",
+          "summary": "In 2018, Amazon brought me in as the lead UX Sound Designer for Astro, its first consumer home robot. Astro used cameras and other sensors to map and navigate your home and workplace, and could proact...",
+          "summaryCn": "In 2018, Amazon brought me in as the lead UX Sound Designer for Astro, its first consumer home robot. Astro used cameras and other sensors to map and navigate your home and workplace, and could proact...",
+          "source": "IEEE Spectrum",
+          "link": "https://spectrum.ieee.org/amazon-astro-robot-sound",
+          "type": "industry"
+        }
+      ]
+    },
+    {
+      "key": "policy",
+      "label": "政策/投资",
+      "emoji": "📋",
+      "count": 1,
+      "items": [
+        {
+          "title": "Sanders bills AI companies for $7T public fund, aims $1,000 payments for US citizens",
+          "titleCn": "Sanders bills AI companies for $7T public fund, aims $1,000 payments for US citizens",
+          "summary": "Sanders wants AI companies to help fund annual $1,000 payments for Americans through a proposed $7 trillion sovereign wealth fund. Funding matters here because robotics categories that need hardware, ...",
+          "summaryCn": "Sanders wants AI companies to help fund annual $1,000 payments for Americans through a proposed $7 trillion sovereign wealth fund. Funding matters here because robotics categories that need hardware, ...",
+          "source": "robot.tv",
+          "link": "https://news.robot.tv/sanders-bills-ai-companies-for-7t-public-fund-aims-1000-payments-for-us-citizens/",
+          "type": "industry"
+        }
+      ]
+    }
+  ]
+}

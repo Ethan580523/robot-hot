@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>关于 · ROBOT HOT</title>
+    <style>
+        :root {
+            --bg-primary: #0a0a0f; --bg-card: #1a1a24; --border: #2a2a38;
+            --text-primary: #e8e8f0; --text-secondary: #9090a8; --text-muted: #606078;
+            --accent: #00d4aa; --accent-dim: #00d4aa22;
+            --radius: 12px; --max-width: 720px;
+            --font: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+        }
+        * { margin:0; padding:0; box-sizing:border-box; }
+        body { font-family: var(--font); background: var(--bg-primary); color: var(--text-primary); line-height: 1.8; min-height: 100vh; }
+        a { color: var(--accent); }
+        .navbar { position: sticky; top: 0; z-index: 100; background: rgba(10,10,15,0.85); backdrop-filter: blur(12px); border-bottom: 1px solid var(--border); }
+        .nav-container { max-width: var(--max-width); margin: 0 auto; padding: 0 20px; height: 56px; display: flex; align-items: center; justify-content: space-between; }
+        .nav-logo { font-size: 18px; font-weight: 700; color: var(--accent); display: flex; align-items: center; gap: 8px; }
+        .nav-menu { display: flex; align-items: center; gap: 4px; list-style: none; }
+        .nav-menu a { padding: 6px 14px; border-radius: 8px; font-size: 14px; color: var(--text-secondary); transition: all 0.2s; }
+        .nav-menu a.active { color: var(--accent); background: var(--accent-dim); }
+        .container { max-width: var(--max-width); margin: 0 auto; padding: 40px 20px 60px; }
+        h1 { font-size: 28px; margin-bottom: 16px; }
+        h2 { font-size: 18px; margin-top: 32px; margin-bottom: 12px; color: var(--accent); }
+        p { margin-bottom: 12px; color: var(--text-secondary); }
+        .card { background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius); padding: 20px; margin-bottom: 16px; }
+        .source-list { list-style: none; }
+        .source-list li { padding: 8px 0; border-bottom: 1px solid var(--border); display: flex; justify-content: space-between; align-items: center; }
+        .source-list li:last-child { border-bottom: none; }
+        .source-list .name { font-weight: 600; }
+        .source-list .url { font-size: 12px; color: var(--text-muted); }
+        .tech-tags { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 8px; }
+        .tech-tag { padding: 4px 12px; border-radius: 16px; font-size: 12px; background: var(--accent-dim); color: var(--accent); }
+        .footer { border-top: 1px solid var(--border); padding: 24px 20px; text-align: center; font-size: 13px; color: var(--text-muted); }
+        .mobile-tabs { display: none; position: fixed; bottom: 0; left: 0; right: 0; background: rgba(10,10,15,0.95); backdrop-filter: blur(12px); border-top: 1px solid var(--border); z-index: 100; padding: 8px 0; }
+        .mobile-tabs-inner { display: flex; justify-content: space-around; }
+        .mobile-tabs a { display: flex; flex-direction: column; align-items: center; gap: 2px; padding: 6px 16px; font-size: 11px; color: var(--text-muted); }
+        .mobile-tabs a.active { color: var(--accent); }
+        @media (max-width: 768px) { .nav-menu { display: none; } .mobile-tabs { display: block; } .container { padding-bottom: 80px; } }
+    </style>
+</head>
+<body>
+<nav class="navbar">
+    <div class="nav-container">
+        <a href="index.html" class="nav-logo"><span style="font-size:22px;">🤖</span><span>ROBOT HOT</span></a>
+        <ul class="nav-menu">
+            <li><a href="index.html">精选</a></li>
+            <li><a href="all.html">全部动态</a></li>
+            <li><a href="daily.html">行业日报</a></li>
+            <li><a href="about.html" class="active">关于</a></li>
+        </ul>
+    </div>
+</nav>
+
+<div class="container">
+    <h1>🤖 关于 ROBOT HOT</h1>
+    <p>ROBOT HOT 是一个机器人产业动态聚合平台，自动抓取多个机器人行业信息源，按品类分类整理，生成每日动态报告。</p>
+
+    <h2>📊 数据来源</h2>
+    <div class="card">
+        <ul class="source-list">
+            <li>
+                <div><div class="name">IEEE Spectrum Robotics</div><div class="url">spectrum.ieee.org/feeds/topic/robotics.rss</div></div>
+                <span style="color:var(--accent);">RSS</span>
+            </li>
+            <li>
+                <div><div class="name">robot.tv</div><div class="url">news.robot.tv/feed.xml</div></div>
+                <span style="color:var(--accent);">RSS</span>
+            </li>
+            <li>
+                <div><div class="name">The Robot Report</div><div class="url">therobotreport.com/feed/</div></div>
+                <span style="color:var(--accent);">RSS</span>
+            </li>
+        </ul>
+    </div>
+
+    <h2>🏷️ 分类体系</h2>
+    <div class="card">
+        <p>🚀 <strong>产品发布</strong> — 新产品发布、版本更新、量产消息</p>
+        <p>📊 <strong>行业动态</strong> — 企业融资、政策法规、市场分析、工厂部署</p>
+        <p>📄 <strong>论文研究</strong> — 学术论文、开源项目、数据集、benchmark</p>
+        <p>💡 <strong>观点技巧</strong> — 行业评论、趋势分析、技术观点</p>
+    </div>
+
+    <h2>⚙️ 技术栈</h2>
+    <div class="card">
+        <p>纯 Node.js 实现，零第三方依赖：</p>
+        <div class="tech-tags">
+            <span class="tech-tag">Node.js</span>
+            <span class="tech-tag">原生 HTTP</span>
+            <span class="tech-tag">RSS 解析</span>
+            <span class="tech-tag">Vanilla JS</span>
+            <span class="tech-tag">CSS Grid</span>
+        </div>
+    </div>
+
+    <h2>🔄 更新机制</h2>
+    <div class="card">
+        <p>• 首次启动自动抓取数据</p>
+        <p>• 首页点击「刷新」按钮可手动触发抓取</p>
+        <p>• 可配置 cron 定时任务每小时自动抓取</p>
+        <p>• 数据存储在 <code>data/</code> 目录下为 JSON 文件</p>
+    </div>
+
+    <h2>📡 API 端点</h2>
+    <div class="card">
+        <p><code>GET /api/feed</code> — 全部动态（支持分类筛选和分页）</p>
+        <p><code>GET /api/daily</code> — 日报日期列表</p>
+        <p><code>GET /api/daily/YYYY-MM-DD</code> — 指定日期日报</p>
+        <p><code>GET /api/stats</code> — 统计信息</p>
+        <p><code>GET /api/refresh</code> — 手动触发抓取</p>
+    </div>
+</div>
+
+<footer class="footer">
+    <p>ROBOT HOT · 机器人产业动态聚合 · 数据仅供学习参考</p>
+</footer>
+
+<nav class="mobile-tabs">
+    <div class="mobile-tabs-inner">
+        <a href="index.html"><span style="font-size:18px;">⭐</span>精选</a>
+        <a href="all.html"><span style="font-size:18px;">📋</span>全部</a>
+        <a href="daily.html"><span style="font-size:18px;">📰</span>日报</a>
+        <a href="about.html" class="active"><span style="font-size:18px;">ℹ️</span>更多</a>
+    </div>
+</nav>
+</body>
+</html>

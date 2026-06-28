@@ -1,0 +1,41 @@
+{
+  "date": "2026-06-16",
+  "title": "ROBOT HOT 日报 — 2026-06-16",
+  "totalItems": 2,
+  "sections": [
+    {
+      "key": "embodied",
+      "label": "具身智能",
+      "emoji": "🧠",
+      "count": 1,
+      "items": [
+        {
+          "title": "Built Robotics, Penn xLAB to develop physical AI for construction",
+          "titleCn": "Built Robotics, Penn xLAB to develop physical AI for construction",
+          "summary": "XLAB and Built Robotics partner to capture additional data, advancing AI models to improve construction site safety. Funding matters here because robotics categories that need hardware, integration, a...",
+          "summaryCn": "XLAB and Built Robotics partner to capture additional data, advancing AI models to improve construction site safety. Funding matters here because robotics categories that need hardware, integration, a...",
+          "source": "robot.tv",
+          "link": "https://news.robot.tv/built-robotics-penn-xlab-to-develop-physical-ai-for-construction/",
+          "type": "industry"
+        }
+      ]
+    },
+    {
+      "key": "industrial",
+      "label": "工业机器人",
+      "emoji": "🏭",
+      "count": 1,
+      "items": [
+        {
+          "title": "PSYONIC partners with ABB Robotics to apply human touch to robot dexterity",
+          "titleCn": "PSYONIC partners with ABB Robotics to apply human touch to robot dexterity",
+          "summary": "PSYONIC is combining its Ability Hand with ABB Robotics&#039; GoFa cobot arm to apply data from prosthetics users to robotic grasping. Funding matters here because robotics categories that need hardwa...",
+          "summaryCn": "PSYONIC is combining its Ability Hand with ABB Robotics&#039; GoFa cobot arm to apply data from prosthetics users to robotic grasping. Funding matters here because robotics categories that need hardwa...",
+          "source": "robot.tv",
+          "link": "https://news.robot.tv/psyonic-partners-with-abb-robotics-to-apply-human-touch-to-robot-dexterity/",
+          "type": "industry"
+        }
+      ]
+    }
+  ]
+}

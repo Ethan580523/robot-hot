@@ -1,0 +1,24 @@
+{
+  "date": "2026-06-24",
+  "title": "ROBOT HOT 日报 — 2026-06-24",
+  "totalItems": 1,
+  "sections": [
+    {
+      "key": "industrial",
+      "label": "工业机器人",
+      "emoji": "🏭",
+      "count": 1,
+      "items": [
+        {
+          "title": "Mantis Robotics launches dual-arm, fenceless robot",
+          "titleCn": "Mantis Robotics launches dual-arm, fenceless robot",
+          "summary": "Mantis Robotics yesterday unveiled the MR-X, a biomimetic dual-arm robot designed to operate without safety fences or cages. The real signal is deployment quality: whether this turns into repeatable u...",
+          "summaryCn": "Mantis Robotics yesterday unveiled the MR-X, a biomimetic dual-arm robot designed to operate without safety fences or cages. The real signal is deployment quality: whether this turns into repeatable u...",
+          "source": "robot.tv",
+          "link": "https://news.robot.tv/mantis-robotics-launches-dual-arm-fenceless-robot/",
+          "type": "product"
+        }
+      ]
+    }
+  ]
+}

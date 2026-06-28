@@ -1,0 +1,85 @@
+{
+  "date": "2026-05-19",
+  "title": "ROBOT HOT 日报 — 2026-05-19",
+  "totalItems": 6,
+  "sections": [
+    {
+      "key": "humanoid",
+      "label": "人形机器人",
+      "emoji": "🤖",
+      "count": 3,
+      "items": [
+        {
+          "title": "Home Robot Safety Is All About Relationships",
+          "titleCn": "Home Robot Safety Is All About Relationships",
+          "summary": "The International Organization for Standardization (ISO) is updating its 12-year-old safety requirements for personal care robots. A lot has happened since the last revision, both on the technology si...",
+          "summaryCn": "The International Organization for Standardization (ISO) is updating its 12-year-old safety requirements for personal care robots. A lot has happened since the last revision, both on the technology si...",
+          "source": "IEEE Spectrum",
+          "link": "https://spectrum.ieee.org/domestic-humanoid-robot-safety-standards",
+          "type": "industry"
+        },
+        {
+          "title": "World’s first humanoid robot auction to debut at China’s biggest shopping event",
+          "titleCn": "World’s first humanoid robot auction to debut at China’s biggest shopping event",
+          "summary": "JD.com will host the world's first humanoid robot auction during its 618 shopping festival, signaling a new retail channel for embodied AI.",
+          "summaryCn": "JD.com will host the world's first humanoid robot auction during its 618 shopping festival, signaling a new retail channel for embodied AI.",
+          "source": "robot.tv",
+          "link": "https://news.robot.tv/worlds-first-humanoid-robot-auction-to-debut-at-chinas-biggest-shopping-event/",
+          "type": "product"
+        },
+        {
+          "title": "Hyundai to deploy 25,000 Atlas robots across US plants in major push",
+          "titleCn": "Hyundai to deploy 25,000 Atlas robots across US plants in major push",
+          "summary": "Hyundai plans to deploy 25,000 Atlas humanoid robots from Boston Dynamics across its US plants and expand US production capacity to 30,000 by 2028.",
+          "summaryCn": "Hyundai plans to deploy 25,000 Atlas humanoid robots from Boston Dynamics across its US plants and expand US production capacity to 30,000 by 2028.",
+          "source": "robot.tv",
+          "link": "https://news.robot.tv/hyundai-to-deploy-25000-atlas-robots-across-us-plants-in-major-push/",
+          "type": "industry"
+        }
+      ]
+    },
+    {
+      "key": "policy",
+      "label": "政策/投资",
+      "emoji": "📋",
+      "count": 2,
+      "items": [
+        {
+          "title": "22. Carbon Robotics",
+          "titleCn": "22. Carbon Robotics",
+          "summary": "Carbon Robotics ranks No. 22 on CNBC’s 2026 Disruptor 50 list, with $100 million in revenue and $184 million in total funding.",
+          "summaryCn": "Carbon Robotics ranks No. 22 on CNBC’s 2026 Disruptor 50 list, with $100 million in revenue and $184 million in total funding.",
+          "source": "robot.tv",
+          "link": "https://news.robot.tv/22-carbon-robotics/",
+          "type": "industry"
+        },
+        {
+          "title": "50. Apptronik",
+          "titleCn": "50. Apptronik",
+          "summary": "Apptronik ranks No. 50 on CNBC’s 2026 Disruptor 50 list, with $963 million in total funding and a $5 billion valuation after a $520 million round in February 2026.",
+          "summaryCn": "Apptronik ranks No. 50 on CNBC’s 2026 Disruptor 50 list, with $963 million in total funding and a $5 billion valuation after a $520 million round in February 2026.",
+          "source": "robot.tv",
+          "link": "https://news.robot.tv/50-apptronik/",
+          "type": "industry"
+        }
+      ]
+    },
+    {
+      "key": "industrial",
+      "label": "工业机器人",
+      "emoji": "🏭",
+      "count": 1,
+      "items": [
+        {
+          "title": "Robots Could Turn E-Waste Into a Source of Legacy Chips",
+          "titleCn": "Robots Could Turn E-Waste Into a Source of Legacy Chips",
+          "summary": "Electronic waste is moving up on regulatory agendas in 2026. New European waste-shipment rules, expanded recycling fees on products with non-removable batteries in California, and an e-waste import ba...",
+          "summaryCn": "Electronic waste is moving up on regulatory agendas in 2026. New European waste-shipment rules, expanded recycling fees on products with non-removable batteries in California, and an e-waste import ba...",
+          "source": "IEEE Spectrum",
+          "link": "https://spectrum.ieee.org/e-waste-recycling-robots-ram",
+          "type": "industry"
+        }
+      ]
+    }
+  ]
+}

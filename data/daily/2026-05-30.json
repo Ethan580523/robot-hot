@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-30",
+  "title": "ROBOT HOT 日报 — 2026-05-30",
+  "totalItems": 1,
+  "sections": [
+    {
+      "key": "humanoid",
+      "label": "人形机器人",
+      "emoji": "🤖",
+      "count": 1,
+      "items": [
+        {
+          "title": "Robots are redefining the war in Ukraine – and forcing Russia onto the back foot",
+          "titleCn": "Robots are redefining the war in Ukraine – and forcing Russia onto the back foot",
+          "summary": "Ukraine's robot forces achieved the first capture of a Russian position using only unmanned systems, with 22,000 missions conducted since January.",
+          "summaryCn": "Ukraine's robot forces achieved the first capture of a Russian position using only unmanned systems, with 22,000 missions conducted since January.",
+          "source": "robot.tv",
+          "link": "https://news.robot.tv/robots-are-redefining-the-war-in-ukraine-and-forcing-russia-onto-the-back-foot/",
+          "type": "product"
+        }
+      ]
+    }
+  ]
+}

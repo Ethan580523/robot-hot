@@ -1,0 +1,42 @@
+{
+  "date": "2026-05-26",
+  "title": "ROBOT HOT 日报 — 2026-05-26",
+  "totalItems": 3,
+  "sections": [
+    {
+      "key": "humanoid",
+      "label": "人形机器人",
+      "emoji": "🤖",
+      "count": 3,
+      "items": [
+        {
+          "title": "LimX unveils Luna humanoid robot for dance, work and live interaction",
+          "titleCn": "LimX unveils Luna humanoid robot for dance, work and live interaction",
+          "summary": "LimX launched Luna, a 160cm humanoid robot with 27 degrees of freedom, AI motion, and multimodal control, priced at $41,000.",
+          "summaryCn": "LimX launched Luna, a 160cm humanoid robot with 27 degrees of freedom, AI motion, and multimodal control, priced at $41,000.",
+          "source": "robot.tv",
+          "link": "https://news.robot.tv/limx-unveils-luna-humanoid-robot-for-dance-work-and-live-interaction/",
+          "type": "product"
+        },
+        {
+          "title": "China: ENGINEAI’s 129,000 sq ft factory claims to build one humanoid robot every 15 mins",
+          "titleCn": "China: ENGINEAI’s 129,000 sq ft factory claims to build one humanoid robot every 15 mins",
+          "summary": "ENGINEAI has opened a 129,000 sq ft factory in Shenzhen that claims to produce one T800 humanoid robot every 15 minutes.",
+          "summaryCn": "ENGINEAI has opened a 129,000 sq ft factory in Shenzhen that claims to produce one T800 humanoid robot every 15 minutes.",
+          "source": "robot.tv",
+          "link": "https://news.robot.tv/china-engineais-129000-sq-ft-factory-claims-to-build-one-humanoid-robot-every-15-mins/",
+          "type": "industry"
+        },
+        {
+          "title": "Humanoids are heading to school as China readies them for real life",
+          "titleCn": "Humanoids are heading to school as China readies them for real life",
+          "summary": "China's first robot training school opens in July, teaching 100+ humanoids real-world skills and advancing robot industry technology.",
+          "summaryCn": "China's first robot training school opens in July, teaching 100+ humanoids real-world skills and advancing robot industry technology.",
+          "source": "robot.tv",
+          "link": "https://news.robot.tv/humanoids-are-heading-to-school-as-china-readies-them-for-real-life/",
+          "type": "product"
+        }
+      ]
+    }
+  ]
+}

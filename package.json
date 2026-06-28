@@ -1,0 +1,14 @@
+{
+    "name": "robot-hot",
+    "version": "3.0.0",
+    "description": "机器人产业动态聚合平台",
+    "private": true,
+    "scripts": {
+        "start": "node server.js",
+        "fetch": "node fetcher.js",
+        "dev": "node server.js"
+    },
+    "engines": {
+        "node": ">=18"
+    }
+}

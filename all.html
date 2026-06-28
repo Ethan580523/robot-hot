@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>全部动态 · ROBOT HOT</title>
+    <style>
+        :root {
+            --bg-primary: #0a0a0f; --bg-card: #1a1a24; --bg-card-hover: #22222e;
+            --border: #2a2a38; --text-primary: #e8e8f0; --text-secondary: #9090a8; --text-muted: #606078;
+            --accent: #00d4aa; --accent-dim: #00d4aa22;
+            --radius: 12px; --max-width: 960px;
+            --font: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+        }
+        * { margin:0; padding:0; box-sizing:border-box; }
+        body { font-family: var(--font); background: var(--bg-primary); color: var(--text-primary); line-height: 1.7; min-height: 100vh; }
+        a { color: inherit; text-decoration: none; }
+        .navbar { position: sticky; top: 0; z-index: 100; background: rgba(10,10,15,0.85); backdrop-filter: blur(12px); border-bottom: 1px solid var(--border); }
+        .nav-container { max-width: var(--max-width); margin: 0 auto; padding: 0 20px; height: 56px; display: flex; align-items: center; justify-content: space-between; }
+        .nav-logo { font-size: 18px; font-weight: 700; color: var(--accent); display: flex; align-items: center; gap: 8px; }
+        .nav-menu { display: flex; align-items: center; gap: 4px; list-style: none; }
+        .nav-menu a { padding: 6px 14px; border-radius: 8px; font-size: 14px; color: var(--text-secondary); transition: all 0.2s; }
+        .nav-menu a:hover { color: var(--text-primary); background: var(--bg-card); }
+        .nav-menu a.active { color: var(--accent); background: var(--accent-dim); }
+        .container { max-width: var(--max-width); margin: 0 auto; padding: 24px 20px 60px; }
+        .page-header h1 { font-size: 22px; font-weight: 700; margin-bottom: 4px; }
+        .page-header .subtitle { font-size: 13px; color: var(--text-secondary); margin-bottom: 20px; }
+        .filter-bar { display: flex; gap: 8px; margin-bottom: 20px; flex-wrap: wrap; }
+        .filter-group { display: flex; gap: 6px; flex-wrap: wrap; }
+        .filter-section-label { font-size: 12px; color: var(--text-muted); margin-bottom: 4px; text-transform: uppercase; letter-spacing: 0.5px; }
+        .filter-tag { padding: 5px 12px; border-radius: 16px; font-size: 13px; background: var(--bg-card); color: var(--text-secondary); cursor: pointer; transition: all 0.2s; border: 1px solid transparent; user-select: none; }
+        .filter-tag:hover { color: var(--text-primary); }
+        .filter-tag.active { background: var(--accent-dim); color: var(--accent); border-color: var(--accent); }
+        .feed-list { display: flex; flex-direction: column; gap: 10px; }
+        .card { background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius); padding: 18px; transition: all 0.2s; cursor: pointer; }
+        .card:hover { background: var(--bg-card-hover); border-color: rgba(0,212,170,0.3); transform: translateY(-1px); }
+        .card-tags { display: flex; gap: 6px; margin-bottom: 8px; flex-wrap: wrap; }
+        .tag { font-size: 11px; padding: 2px 8px; border-radius: 4px; font-weight: 500; }
+        .tag-domain { background: #1a2a3e; color: #60a5fa; }
+        .tag-type { background: var(--bg-primary); color: var(--text-muted); }
+        .card-title { font-size: 15px; font-weight: 600; line-height: 1.5; margin-bottom: 4px; }
+        .card-title-en { font-size: 13px; color: var(--text-muted); margin-bottom: 6px; }
+        .card-summary { font-size: 13px; color: var(--text-secondary); line-height: 1.6; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+        .card-footer { display: flex; align-items: center; gap: 12px; margin-top: 8px; font-size: 12px; color: var(--text-muted); }
+        .pagination { display: flex; justify-content: center; gap: 6px; margin-top: 28px; }
+        .pagination a { padding: 8px 12px; border-radius: 8px; background: var(--bg-card); border: 1px solid var(--border); font-size: 13px; color: var(--text-secondary); cursor: pointer; transition: all 0.2s; }
+        .pagination a:hover { color: var(--accent); border-color: var(--accent); }
+        .pagination a.active { background: var(--accent-dim); color: var(--accent); border-color: var(--accent); }
+        .pagination a.disabled { opacity: 0.4; pointer-events: none; }
+        .footer { border-top: 1px solid var(--border); padding: 24px 20px; text-align: center; font-size: 13px; color: var(--text-muted); }
+        .mobile-tabs { display: none; position: fixed; bottom: 0; left: 0; right: 0; background: rgba(10,10,15,0.95); backdrop-filter: blur(12px); border-top: 1px solid var(--border); z-index: 100; padding: 8px 0; }
+        .mobile-tabs-inner { display: flex; justify-content: space-around; }
+        .mobile-tabs a { display: flex; flex-direction: column; align-items: center; gap: 2px; padding: 6px 16px; font-size: 11px; color: var(--text-muted); }
+        .mobile-tabs a.active { color: var(--accent); }
+        .loading { text-align: center; padding: 40px; color: var(--text-muted); }
+        .fade-in { animation: fadeIn 0.3s ease; }
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }
+        @media (max-width: 768px) { .nav-menu { display: none; } .mobile-tabs { display: block; } .container { padding-bottom: 80px; } }
+    </style>
+</head>
+<body>
+<nav class="navbar">
+    <div class="nav-container">
+        <a href="index.html" class="nav-logo"><span>🤖</span><span>ROBOT HOT</span></a>
+        <ul class="nav-menu">
+            <li><a href="index.html">精选</a></li>
+            <li><a href="all.html" class="active">全部动态</a></li>
+            <li><a href="daily.html">日报</a></li>
+            <li><a href="about.html">关于</a></li>
+        </ul>
+    </div>
+</nav>
+
+<div class="container">
+    <div class="page-header">
+        <h1>🤖 全部动态</h1>
+        <p class="subtitle">按领域和类型筛选机器人产业资讯</p>
+    </div>
+
+    <div class="filter-section-label">领域</div>
+    <div class="filter-bar" id="domainBar"></div>
+    <div class="filter-section-label" style="margin-top:12px;">类型</div>
+    <div class="filter-bar" id="typeBar"></div>
+
+    <div class="feed-list" id="feedList" style="margin-top:20px;"><div class="loading">加载中...</div></div>
+    <div class="pagination" id="pagination"></div>
+</div>
+
+<footer class="footer"><p>ROBOT HOT · 机器人产业动态聚合</p></footer>
+
+<nav class="mobile-tabs">
+    <div class="mobile-tabs-inner">
+        <a href="index.html"><span>⭐</span>精选</a>
+        <a href="all.html" class="active"><span>📋</span>全部</a>
+        <a href="daily.html"><span>📰</span>日报</a>
+        <a href="about.html"><span>ℹ️</span>更多</a>
+    </div>
+</nav>
+
+<script>
+const DOMAIN_CN = {
+    humanoid:   { label: '人形机器人', emoji: '🤖' },
+    industrial: { label: '工业机器人', emoji: '🏭' },
+    embodied:   { label: '具身智能', emoji: '🧠' },
+    service:    { label: '服务机器人', emoji: '🛎️' },
+    drone:      { label: '无人机/移动', emoji: '🚁' },
+    components: { label: '核心零部件', emoji: '⚙️' },
+    policy:     { label: '政策/投资', emoji: '📋' },
+    research:   { label: '学术研究', emoji: '📄' }
+};
+const TYPE_CN = {
+    product:  { label: '产品发布' },
+    industry: { label: '行业动态' },
+    research: { label: '论文研究' },
+    opinion:  { label: '观点技巧' }
+};
+
+let state = { page: 1, perPage: 12, domain: 'all', type: 'all' };
+
+// 从URL参数读取初始筛选
+const params = new URLSearchParams(window.location.search);
+if (params.get('domain')) state.domain = params.get('domain');
+
+function renderFilters() {
+    const dBar = document.getElementById('domainBar');
+    dBar.innerHTML = `<span class="filter-tag ${state.domain==='all'?'active':''}" data-domain="all">全部</span>` +
+        Object.entries(DOMAIN_CN).map(([k, v]) =>
+            `<span class="filter-tag ${state.domain===k?'active':''}" data-domain="${k}">${v.emoji} ${v.label}</span>`
+        ).join('');
+    dBar.onclick = (e) => {
+        if (e.target.dataset.domain) { state.domain = e.target.dataset.domain; state.page = 1; renderFilters(); loadFeed(); }
+    };
+
+    const tBar = document.getElementById('typeBar');
+    tBar.innerHTML = `<span class="filter-tag ${state.type==='all'?'active':''}" data-type="all">全部</span>` +
+        Object.entries(TYPE_CN).map(([k, v]) =>
+            `<span class="filter-tag ${state.type===k?'active':''}" data-type="${k}">${v.label}</span>`
+        ).join('');
+    tBar.onclick = (e) => {
+        if (e.target.dataset.type) { state.type = e.target.dataset.type; state.page = 1; renderFilters(); loadFeed(); }
+    };
+}
+
+function renderCard(item) {
+    const domain = DOMAIN_CN[item.domain] || { label: item.domain, emoji: '📌' };
+    const type = TYPE_CN[item.type] || { label: item.type };
+    return `<article class="card fade-in" onclick="window.open('${item.link}', '_blank')">
+        <div class="card-tags">
+            <span class="tag tag-domain">${domain.emoji} ${domain.label}</span>
+            <span class="tag tag-type">${type.label}</span>
+        </div>
+        <h3 class="card-title">${item.titleCn || item.title}</h3>
+        <div class="card-title-en">${item.title}</div>
+        <p class="card-summary">${item.summaryCn || item.summary}</p>
+        <div class="card-footer"><span>${item.source}</span><span>·</span><span>${item.date}</span></div>
+    </article>`;
+}
+
+async function loadFeed() {
+    const list = document.getElementById('feedList');
+    list.innerHTML = '<div class="loading">加载中...</div>';
+    try {
+        let url = `/api/feed?page=${state.page}&perPage=${state.perPage}`;
+        if (state.domain !== 'all') url += `&domain=${state.domain}`;
+        if (state.type !== 'all') url += `&type=${state.type}`;
+        const res = await fetch(url);
+        const data = await res.json();
+        if (data.items && data.items.length > 0) {
+            list.innerHTML = data.items.map(renderCard).join('');
+        } else {
+            list.innerHTML = '<div class="loading"><p>暂无数据</p></div>';
+        }
+        renderPagination(data.total);
+    } catch {
+        list.innerHTML = '<div class="loading"><p>加载失败</p></div>';
+    }
+}
+
+function renderPagination(total) {
+    const pages = Math.ceil(total / state.perPage);
+    const pg = document.getElementById('pagination');
+    if (pages <= 1) { pg.innerHTML = ''; return; }
+    let h = `<a class="${state.page===1?'disabled':''}" onclick="goTo(${state.page-1})">‹</a>`;
+    for (let i = 1; i <= pages; i++) {
+        if (i === 1 || i === pages || Math.abs(i - state.page) <= 2) {
+            h += `<a class="${i===state.page?'active':''}" onclick="goTo(${i})">${i}</a>`;
+        } else if (Math.abs(i - state.page) === 3) {
+            h += '<span style="color:var(--text-muted);padding:8px 4px;">...</span>';
+        }
+    }
+    h += `<a class="${state.page===pages?'disabled':''}" onclick="goTo(${state.page+1})">›</a>`;
+    pg.innerHTML = h;
+}
+
+function goTo(p) { state.page = p; loadFeed(); window.scrollTo({top:0,behavior:'smooth'}); }
+
+renderFilters();
+loadFeed();
+</script>
+</body>
+</html>

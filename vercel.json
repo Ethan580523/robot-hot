@@ -1,0 +1,23 @@
+{
+    "version": 2,
+    "name": "robot-hot",
+    "builds": [
+        { "src": "api/*.js", "use": "@vercel/node" },
+        { "src": "*.html", "use": "@vercel/static" },
+        { "src": "data/**", "use": "@vercel/static" },
+        { "src": "translator.js", "use": "@vercel/static" }
+    ],
+    "routes": [
+        { "src": "/api/feed", "dest": "/api/feed.js" },
+        { "src": "/api/daily$", "dest": "/api/daily.js" },
+        { "src": "/api/daily/(.+)", "dest": "/api/daily-item.js?date=$1" },
+        { "src": "/api/stats", "dest": "/api/stats.js" },
+        { "src": "/api/refresh", "dest": "/api/refresh.js" },
+        { "src": "/data/(.*)", "dest": "/data/$1" },
+        { "src": "/$", "dest": "/index.html" },
+        { "src": "/all$", "dest": "/all.html" },
+        { "src": "/daily$", "dest": "/daily.html" },
+        { "src": "/about$", "dest": "/about.html" },
+        { "src": "/(.+)\\.html", "dest": "/$1.html" }
+    ]
+}

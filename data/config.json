@@ -1,0 +1,69 @@
+{
+  "domains": {
+    "humanoid": {
+      "label": "人形机器人",
+      "emoji": "🤖"
+    },
+    "industrial": {
+      "label": "工业机器人",
+      "emoji": "🏭"
+    },
+    "embodied": {
+      "label": "具身智能",
+      "emoji": "🧠"
+    },
+    "service": {
+      "label": "服务机器人",
+      "emoji": "🛎️"
+    },
+    "drone": {
+      "label": "无人机/移动",
+      "emoji": "🚁"
+    },
+    "components": {
+      "label": "核心零部件",
+      "emoji": "⚙️"
+    },
+    "policy": {
+      "label": "政策/投资",
+      "emoji": "📋"
+    },
+    "research": {
+      "label": "学术研究",
+      "emoji": "📄"
+    }
+  },
+  "types": {
+    "product": {
+      "label": "产品发布",
+      "class": "cat-product"
+    },
+    "industry": {
+      "label": "行业动态",
+      "class": "cat-industry"
+    },
+    "research": {
+      "label": "论文研究",
+      "class": "cat-research"
+    },
+    "opinion": {
+      "label": "观点技巧",
+      "class": "cat-opinion"
+    }
+  },
+  "sources": [
+    {
+      "name": "IEEE Spectrum",
+      "nameEn": "IEEE Spectrum Robotics"
+    },
+    {
+      "name": "robot.tv",
+      "nameEn": "robot.tv"
+    },
+    {
+      "name": "The Robot Report",
+      "nameEn": "The Robot Report"
+    }
+  ],
+  "lastUpdate": "2026-06-28T02:05:31.982Z"
+}

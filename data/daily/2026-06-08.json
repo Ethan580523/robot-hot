@@ -1,0 +1,24 @@
+{
+  "date": "2026-06-08",
+  "title": "ROBOT HOT 日报 — 2026-06-08",
+  "totalItems": 1,
+  "sections": [
+    {
+      "key": "policy",
+      "label": "政策/投资",
+      "emoji": "📋",
+      "count": 1,
+      "items": [
+        {
+          "title": "Daimon Robotics and Galbot jointly launches RobOmni for benchmarking tactile perception and dexterous manipulation",
+          "titleCn": "Daimon Robotics and Galbot jointly launches RobOmni for benchmarking tactile perception and dexterous manipulation",
+          "summary": "While vision enables robots to perceive the world, it cannot fully capture the physical interactions that underpin real-world manipulation,... Funding matters here because robotics categories that nee...",
+          "summaryCn": "While vision enables robots to perceive the world, it cannot fully capture the physical interactions that underpin real-world manipulation,... Funding matters here because robotics categories that nee...",
+          "source": "robot.tv",
+          "link": "https://news.robot.tv/daimon-robotics-and-galbot-jointly-launches-robomni-for-benchmarking-tactile-perception-an/",
+          "type": "product"
+        }
+      ]
+    }
+  ]
+}

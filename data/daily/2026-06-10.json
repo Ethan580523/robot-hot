@@ -1,0 +1,41 @@
+{
+  "date": "2026-06-10",
+  "title": "ROBOT HOT 日报 — 2026-06-10",
+  "totalItems": 2,
+  "sections": [
+    {
+      "key": "policy",
+      "label": "政策/投资",
+      "emoji": "📋",
+      "count": 1,
+      "items": [
+        {
+          "title": "Robotics will not have a clean Llama moment",
+          "titleCn": "Robotics will not have a clean Llama moment",
+          "summary": "A local control stack converts policy output into motion on the installed robot via its controller, within the cell&#8217;s safety envelope. The real signal is deployment quality: whether this turns i...",
+          "summaryCn": "A local control stack converts policy output into motion on the installed robot via its controller, within the cell&#8217;s safety envelope. The real signal is deployment quality: whether this turns i...",
+          "source": "robot.tv",
+          "link": "https://news.robot.tv/robotics-will-not-have-a-clean-llama-moment/",
+          "type": "industry"
+        }
+      ]
+    },
+    {
+      "key": "humanoid",
+      "label": "人形机器人",
+      "emoji": "🤖",
+      "count": 1,
+      "items": [
+        {
+          "title": "Curiosity’s 13 Years of Software Hacks Keeps It Alive on Mars",
+          "titleCn": "Curiosity’s 13 Years of Software Hacks Keeps It Alive on Mars",
+          "summary": "It takes some special tricks to maintain a robot 200 million kilometers from home IEEE Spectrum is pushing curiosity’s 13 years of software hacks keeps it alive on mars at 200 million into a m...",
+          "summaryCn": "It takes some special tricks to maintain a robot 200 million kilometers from home IEEE Spectrum is pushing curiosity’s 13 years of software hacks keeps it alive on mars at 200 million into a m...",
+          "source": "robot.tv",
+          "link": "https://news.robot.tv/curiositys-13-years-of-software-hacks-keeps-it-alive-on-mars/",
+          "type": "product"
+        }
+      ]
+    }
+  ]
+}

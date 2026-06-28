@@ -1,0 +1,24 @@
+{
+  "date": "2026-06-17",
+  "title": "ROBOT HOT 日报 — 2026-06-17",
+  "totalItems": 1,
+  "sections": [
+    {
+      "key": "humanoid",
+      "label": "人形机器人",
+      "emoji": "🤖",
+      "count": 1,
+      "items": [
+        {
+          "title": "The Secret to Marathon-Winning Humanoid Robots",
+          "titleCn": "The Secret to Marathon-Winning Humanoid Robots",
+          "summary": "On 19 April 2026, the Honor Lightning humanoid robot ran a half-marathon in 50 minutes and 26 seconds, beating the human world record by 7 minutes and the best robot time from 2025 by almost 2 hours.H...",
+          "summaryCn": "On 19 April 2026, the Honor Lightning humanoid robot ran a half-marathon in 50 minutes and 26 seconds, beating the human world record by 7 minutes and the best robot time from 2025 by almost 2 hours.H...",
+          "source": "IEEE Spectrum",
+          "link": "https://spectrum.ieee.org/china-humanoid-robot-marathon",
+          "type": "industry"
+        }
+      ]
+    }
+  ]
+}

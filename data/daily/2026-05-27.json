@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-27",
+  "title": "ROBOT HOT 日报 — 2026-05-27",
+  "totalItems": 1,
+  "sections": [
+    {
+      "key": "humanoid",
+      "label": "人形机器人",
+      "emoji": "🤖",
+      "count": 1,
+      "items": [
+        {
+          "title": "Robotics team looks at its creation as a new species, not copy of humans or animals",
+          "titleCn": "Robotics team looks at its creation as a new species, not copy of humans or animals",
+          "summary": "Adoptees account for an estimated 25-40% of those in residential treatment. AP News is pushing robotics team looks at its creation as a new species, not copy of humans or animals at 25 i...",
+          "summaryCn": "Adoptees account for an estimated 25-40% of those in residential treatment. AP News is pushing robotics team looks at its creation as a new species, not copy of humans or animals at 25 i...",
+          "source": "robot.tv",
+          "link": "https://news.robot.tv/robotics-team-looks-at-its-creation-as-a-new-species-not-copy-of-humans-or-animals/",
+          "type": "product"
+        }
+      ]
+    }
+  ]
+}
