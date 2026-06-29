@@ -1,43 +1,8 @@
 {
   "date": "2026-05-21",
   "title": "ROBOT HOT 日报 — 2026-05-21",
-  "totalItems": 6,
+  "totalItems": 2,
   "sections": [
-    {
-      "key": "humanoid",
-      "label": "人形机器人",
-      "emoji": "🤖",
-      "count": 3,
-      "items": [
-        {
-          "title": "Job training for robots: How China is getting machines ready to join the workforce",
-          "titleCn": "Job training for robots: How China is getting machines ready to join the workforce",
-          "summary": "In the same way that Beijing targeted electric vehicles and artificial intelligence as key future technologies, policymakers have identified humanoid robots as... What matters here is how the decision...",
-          "summaryCn": "In the same way that Beijing targeted electric vehicles and artificial intelligence as key future technologies, policymakers have identified humanoid robots as... What matters here is how the decision...",
-          "source": "robot.tv",
-          "link": "https://news.robot.tv/job-training-for-robots-how-china-is-getting-machines-ready-to-join-the-workforce/",
-          "type": "industry"
-        },
-        {
-          "title": "Figure AI&#39;s CEO just raised $700 million for his next big bet",
-          "titleCn": "Figure AI&#39;s CEO just raised $700 million for his next big bet",
-          "summary": "Hark, founded by Figure AI CEO Brett Adcock, raised $700 million to develop AI hardware, competing with OpenAI, Apple, Google, and Meta.",
-          "summaryCn": "Hark, founded by Figure AI CEO Brett Adcock, raised $700 million to develop AI hardware, competing with OpenAI, Apple, Google, and Meta.",
-          "source": "robot.tv",
-          "link": "https://news.robot.tv/figure-ais-ceo-just-raised-700-million-for-his-next-big-bet/",
-          "type": "product"
-        },
-        {
-          "title": "Humanoid partners with Bosch, Schaeffler to scale robot production",
-          "titleCn": "Humanoid partners with Bosch, Schaeffler to scale robot production",
-          "summary": "Humanoid is working with Bosch to scale production and distribution of its HMND robot in Europe after a joint proof of concept in March 2026.",
-          "summaryCn": "Humanoid is working with Bosch to scale production and distribution of its HMND robot in Europe after a joint proof of concept in March 2026.",
-          "source": "robot.tv",
-          "link": "https://news.robot.tv/humanoid-partners-with-bosch-schaeffler-to-scale-robot-production/",
-          "type": "industry"
-        }
-      ]
-    },
     {
       "key": "research",
       "label": "学术研究",
@@ -46,9 +11,9 @@
       "items": [
         {
           "title": "Open-Source Software Is Starting to Help Robots Think",
-          "titleCn": "Open-Source Software Is Starting to Help Robots Think",
+          "titleCn": "Open-Source Software Is Starting to Help 机器人 Think",
           "summary": "When a group of academics started making open-source robotics hardware, a generation of roboticists got years of their lives back. Now, the bigger challenge is getting robots to think—and that’s start...",
-          "summaryCn": "When a group of academics started making open-source robotics hardware, a generation of roboticists got years of their lives back. Now, the bigger challenge is getting robots to think—and that’s start...",
+          "summaryCn": "When a group of academics started making open-source 机器人s hardware, a generation of 机器人ists got years of their lives back. Now, the bigger challenge is getting 机器人 to think—and that’s start",
           "source": "IEEE Spectrum",
           "link": "https://spectrum.ieee.org/open-source-robot-ai-platforms",
           "type": "research"
@@ -63,29 +28,12 @@
       "items": [
         {
           "title": "The Future of Physical AI Isn’t Smarter Robots, It’s Smarter Interfaces",
-          "titleCn": "The Future of Physical AI Isn’t Smarter Robots, It’s Smarter Interfaces",
+          "titleCn": "The Future of 物理AI Isn’t Smarter 机器人, It’s Smarter Interfaces",
           "summary": "This sponsored article is brought to you by Wetour Robotics.A field technician on a wind turbine, harness clipped, both hands on a wrench, needs to send a command to the diagnostic device hanging at h...",
-          "summaryCn": "This sponsored article is brought to you by Wetour Robotics.A field technician on a wind turbine, harness clipped, both hands on a wrench, needs to send a command to the diagnostic device hanging at h...",
+          "summaryCn": "This sponsored article is brought to you by Wetour 机器人s.A field technician on a wind turbine, harness clipped, both hands on a wrench, needs to send a command to the diagnostic device hanging at h",
           "source": "IEEE Spectrum",
           "link": "https://spectrum.ieee.org/wetour-robotics-physical-ai-human-interfaces",
-          "type": "research"
-        }
-      ]
-    },
-    {
-      "key": "drone",
-      "label": "无人机/移动",
-      "emoji": "🚁",
-      "count": 1,
-      "items": [
-        {
-          "title": "Latvia orders more Blaze interceptor UAVs under framework agreement with Origin Robotics",
-          "titleCn": "Latvia orders more Blaze interceptor UAVs under framework agreement with Origin Robotics",
-          "summary": "Latvia has signed the first contract for Blaze interceptor UAVs under a multi-year framework agreement with Origin Robotics, with the deal approved by Latvia's cabinet on 21 April 2026.",
-          "summaryCn": "Latvia has signed the first contract for Blaze interceptor UAVs under a multi-year framework agreement with Origin Robotics, with the deal approved by Latvia's cabinet on 21 April 2026.",
-          "source": "robot.tv",
-          "link": "https://news.robot.tv/latvia-orders-more-blaze-interceptor-uavs-under-framework-agreement-with-origin-robotics/",
-          "type": "product"
+          "type": "industry"
         }
       ]
     }

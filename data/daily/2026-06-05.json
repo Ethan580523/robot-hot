@@ -1,7 +1,7 @@
 {
   "date": "2026-06-05",
   "title": "ROBOT HOT 日报 — 2026-06-05",
-  "totalItems": 2,
+  "totalItems": 1,
   "sections": [
     {
       "key": "humanoid",
@@ -11,28 +11,11 @@
       "items": [
         {
           "title": "Video Friday: Watch This Running Robot Not Fall Down Stairs",
-          "titleCn": "Video Friday: Watch This Running Robot Not Fall Down Stairs",
+          "titleCn": "Video Friday: Watch This Running 机器人 Not Fall Down Stairs",
           "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
-          "summaryCn": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
+          "summaryCn": "Video Friday is your weekly selection of awesome 机器人s videos, collected by your friends at IEEE Spectrum 机器人s. We also post a weekly calendar of upcoming 机器人s events for the next few month",
           "source": "IEEE Spectrum",
           "link": "https://spectrum.ieee.org/video-friday-humanoid-robot-running",
-          "type": "industry"
-        }
-      ]
-    },
-    {
-      "key": "policy",
-      "label": "政策/投资",
-      "emoji": "📋",
-      "count": 1,
-      "items": [
-        {
-          "title": "Nvidia-Backed Robotics Startup Generalist AI Valued at $2 Billion",
-          "titleCn": "Nvidia-Backed Robotics Startup Generalist AI Valued at $2 Billion",
-          "summary": "The company raised $400 million in a funding round led by Radical Ventures Funding matters here because robotics categories that need hardware, integration, and long deployment cycles s...",
-          "summaryCn": "The company raised $400 million in a funding round led by Radical Ventures Funding matters here because robotics categories that need hardware, integration, and long deployment cycles s...",
-          "source": "robot.tv",
-          "link": "https://news.robot.tv/nvidia-backed-robotics-startup-generalist-ai-valued-at-2-billion/",
           "type": "industry"
         }
       ]

@@ -53,17 +53,23 @@
   },
   "sources": [
     {
-      "name": "IEEE Spectrum",
-      "nameEn": "IEEE Spectrum Robotics"
+      "name": "IEEE Spectrum"
     },
     {
-      "name": "robot.tv",
-      "nameEn": "robot.tv"
+      "name": "robot.tv"
     },
     {
-      "name": "The Robot Report",
-      "nameEn": "The Robot Report"
+      "name": "The Robot Report"
     }
   ],
-  "lastUpdate": "2026-06-28T02:05:31.982Z"
+  "domainStats": {
+    "humanoid": 13,
+    "research": 8,
+    "embodied": 3,
+    "service": 1,
+    "components": 2,
+    "policy": 2,
+    "industrial": 1
+  },
+  "lastUpdate": "2026-06-29T04:17:21.652Z"
 }

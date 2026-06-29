@@ -1,7 +1,7 @@
 {
   "date": "2026-05-15",
   "title": "ROBOT HOT 日报 — 2026-05-15",
-  "totalItems": 2,
+  "totalItems": 1,
   "sections": [
     {
       "key": "research",
@@ -11,29 +11,12 @@
       "items": [
         {
           "title": "Video Friday: Heavy Robotic Machinery Operates Itself",
-          "titleCn": "Video Friday: Heavy Robotic Machinery Operates Itself",
+          "titleCn": "Video Friday: Heavy 机器人 Machinery Operates Itself",
           "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
-          "summaryCn": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
+          "summaryCn": "Video Friday is your weekly selection of awesome 机器人s videos, collected by your friends at IEEE Spectrum 机器人s. We also post a weekly calendar of upcoming 机器人s events for the next few month",
           "source": "IEEE Spectrum",
           "link": "https://spectrum.ieee.org/video-friday-material-handling-robots",
           "type": "research"
-        }
-      ]
-    },
-    {
-      "key": "humanoid",
-      "label": "人形机器人",
-      "emoji": "🤖",
-      "count": 1,
-      "items": [
-        {
-          "title": "China gives humanoid robots official ID numbers to track their entire lifespan",
-          "titleCn": "China gives humanoid robots official ID numbers to track their entire lifespan",
-          "summary": "China has begun issuing 29-character unique ID numbers to humanoid robots in Hubei province, enabling lifecycle tracking from production to decommissioning.",
-          "summaryCn": "China has begun issuing 29-character unique ID numbers to humanoid robots in Hubei province, enabling lifecycle tracking from production to decommissioning.",
-          "source": "robot.tv",
-          "link": "https://news.robot.tv/china-gives-humanoid-robots-official-id-numbers-to-track-their-entire-lifespan/",
-          "type": "industry"
         }
       ]
     }

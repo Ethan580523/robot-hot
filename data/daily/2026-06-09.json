@@ -1,7 +1,7 @@
 {
   "date": "2026-06-09",
   "title": "ROBOT HOT 日报 — 2026-06-09",
-  "totalItems": 3,
+  "totalItems": 2,
   "sections": [
     {
       "key": "research",
@@ -11,9 +11,9 @@
       "items": [
         {
           "title": "Beyond Dexterity: Why Contact May Define the Next Era of Robotics",
-          "titleCn": "Beyond Dexterity: Why Contact May Define the Next Era of Robotics",
+          "titleCn": "Beyond Dexterity: Why Contact May Define the Next Era of 机器人s",
           "summary": "This article is brought to you by AGILINK.Throughout the exhibition hall at the 2026 IEEE International Conference on Robotics (ICRA), in Vienna, one demonstration seemed to attract a disproportionate...",
-          "summaryCn": "This article is brought to you by AGILINK.Throughout the exhibition hall at the 2026 IEEE International Conference on Robotics (ICRA), in Vienna, one demonstration seemed to attract a disproportionate...",
+          "summaryCn": "This article is brought to you by AGILINK.Throughout the exhibition hall at the 2026 IEEE International Conference on 机器人s (ICRA), in Vienna, one demonstration seemed to attract a disproportionate",
           "source": "IEEE Spectrum",
           "link": "https://spectrum.ieee.org/agilink-contact-intelligence-robot-manipulation",
           "type": "research"
@@ -30,26 +30,9 @@
           "title": "How JPL Keeps the 13-Year-Old Curiosity Rover Doing Science",
           "titleCn": "How JPL Keeps the 13-Year-Old Curiosity Rover Doing Science",
           "summary": "Thirteen years ago last August, I was camped out in NASA’s Jet Propulsion Laboratory press room in Pasadena, Calif., waiting to see whether the Curiosity rover would survive its descent and skycrane-a...",
-          "summaryCn": "Thirteen years ago last August, I was camped out in NASA’s Jet Propulsion Laboratory press room in Pasadena, Calif., waiting to see whether the Curiosity rover would survive its descent and skycrane-a...",
+          "summaryCn": "Thirteen years ago last August, I was camped out in NASA’s Jet Propulsion Laboratory press room in Pasadena, Calif., waiting to see whether the Curiosity rover would survive its descent and skycrane-a",
           "source": "IEEE Spectrum",
           "link": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
-          "type": "product"
-        }
-      ]
-    },
-    {
-      "key": "humanoid",
-      "label": "人形机器人",
-      "emoji": "🤖",
-      "count": 1,
-      "items": [
-        {
-          "title": "Effort to establish a National Commission on Robotics advances in Congress",
-          "titleCn": "Effort to establish a National Commission on Robotics advances in Congress",
-          "summary": "That may be changing, as Senators Dave McCormick (R-Pa.), John Hickenlooper (D-Colo.), Todd Young (R-Ind.), and Martin Heinrich (D-N.M.) last week introduced a... That may be changing, as Senators Dav...",
-          "summaryCn": "That may be changing, as Senators Dave McCormick (R-Pa.), John Hickenlooper (D-Colo.), Todd Young (R-Ind.), and Martin Heinrich (D-N.M.) last week introduced a... That may be changing, as Senators Dav...",
-          "source": "robot.tv",
-          "link": "https://news.robot.tv/effort-to-establish-a-national-commission-on-robotics-advances-in-congress/",
           "type": "product"
         }
       ]
