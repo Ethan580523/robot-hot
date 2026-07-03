@@ -1,6 +1,18 @@
 [
   {
     "id": "aHR0cHM6Ly9z",
+    "title": "Video Friday: An Earthbound Mars Rover for the Moon",
+    "titleCn": "Video Friday: An Earthbound Mars Rover for the Moon",
+    "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
+    "summaryCn": "Video Friday is your weekly selection of awesome 机器人s videos, collected by your friends at IEEE Spectrum 机器人s. We also post a weekly calendar of upcoming 机器人s events for the next few month",
+    "source": "IEEE Spectrum",
+    "date": "2026-07-03",
+    "link": "https://spectrum.ieee.org/video-friday-nasa-lunar-rover",
+    "type": "industry",
+    "domain": "humanoid"
+  },
+  {
+    "id": "aHR0cHM6Ly9z",
     "title": "Video Friday: Give Robots a Hand",
     "titleCn": "Video Friday: Give 机器人 a Hand",
     "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
@@ -346,17 +358,5 @@
     "link": "https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica",
     "type": "industry",
     "domain": "humanoid"
-  },
-  {
-    "id": "aHR0cHM6Ly9z",
-    "title": "Proposed Chinese Robot Ban Is Latest U.S. Tech Sovereignty Move",
-    "titleCn": "Proposed Chinese 机器人 Ban Is Latest U.S. Tech Sovereignty Move",
-    "summary": "The American Security Robotics Act, a bipartisan bill introduced in March by Senators Tom Cotton (R-Ark.) and Chuck Schumer (D-N.Y.) and Representative Elise Stefanik (R-N.Y.), proposes to limit U.S. ...",
-    "summaryCn": "The American Security 机器人s Act, a bipartisan bill 推出 in March by Senators Tom Cotton (R-Ark.) and Chuck Schumer (D-N.Y.) and Representative Elise Stefanik (R-N.Y.), proposes to limit U.S. ",
-    "source": "IEEE Spectrum",
-    "date": "2026-04-22",
-    "link": "https://spectrum.ieee.org/chinese-robots-us-ban",
-    "type": "industry",
-    "domain": "policy"
   }
 ]
