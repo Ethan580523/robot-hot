@@ -1,6 +1,18 @@
 [
   {
     "id": "aHR0cHM6Ly9z",
+    "title": "Japan Pioneered Humanoid Robots—Can It Now Catch China?",
+    "titleCn": "Japan Pioneered 人形机器人s—Can It Now Catch China?",
+    "summary": "“In the future, the relationship between humans and robots will deepen, and the distinction between them will probably disappear.” This prediction, from one of the attendees at the recent Humanoids Su...",
+    "summaryCn": "“In the future, the relationship between humans and 机器人 will deepen, and the distinction between them will probably disappear.” This prediction, from one of the attendees at the recent 人形机器人s Su",
+    "source": "IEEE Spectrum",
+    "date": "2026-07-04",
+    "link": "https://spectrum.ieee.org/humanoid-robots-japan",
+    "type": "industry",
+    "domain": "humanoid"
+  },
+  {
+    "id": "aHR0cHM6Ly9z",
     "title": "Video Friday: An Earthbound Mars Rover for the Moon",
     "titleCn": "Video Friday: An Earthbound Mars Rover for the Moon",
     "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
@@ -346,17 +358,5 @@
     "link": "https://spectrum.ieee.org/video-friday-ping-pong-robot",
     "type": "research",
     "domain": "research"
-  },
-  {
-    "id": "aHR0cHM6Ly9z",
-    "title": "This Roboticist-Turned-Teacher Built a Life-Size Replica of ENIAC",
-    "titleCn": "This 机器人ist-Turned-Teacher Built a Life-Size Replica of ENIAC",
-    "summary": "Tom Burick has always considered himself a builder. Over the years he’s designed robots, constructed a vintage teardrop trailer, and most recently, led a group of students in building a full-scale rep...",
-    "summaryCn": "Tom Burick has always considered himself a builder. Over the years he’s designed 机器人, constructed a vintage teardrop trailer, and most recently, led a group of students in building a full-scale rep",
-    "source": "IEEE Spectrum",
-    "date": "2026-04-23",
-    "link": "https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica",
-    "type": "industry",
-    "domain": "humanoid"
   }
 ]
