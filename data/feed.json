@@ -1,6 +1,18 @@
 [
   {
     "id": "aHR0cHM6Ly9z",
+    "title": "IEEE Honors Robotics Pioneer Toshio Fukuda",
+    "titleCn": "IEEE Honors 机器人s Pioneer Toshio Fukuda",
+    "summary": "Toshio Fukuda has been blazing trails for most of his career. He is considered to be one of the most prolific scholars in robotics, writing more than 2,000 research papers and authoring several books ...",
+    "summaryCn": "Toshio Fukuda has been blazing trails for most of his career. He is considered to be one of the most prolific scholars in 机器人s, writing more than 2,000 研究 论文s and authoring several books ",
+    "source": "IEEE Spectrum",
+    "date": "2026-07-07",
+    "link": "https://spectrum.ieee.org/ieee-honors-toshio-fukuda",
+    "type": "product",
+    "domain": "research"
+  },
+  {
+    "id": "aHR0cHM6Ly9z",
     "title": "Japan Pioneered Humanoid Robots—Can It Now Catch China?",
     "titleCn": "Japan Pioneered 人形机器人s—Can It Now Catch China?",
     "summary": "“In the future, the relationship between humans and robots will deepen, and the distinction between them will probably disappear.” This prediction, from one of the attendees at the recent Humanoids Su...",
@@ -346,17 +358,5 @@
     "link": "https://spectrum.ieee.org/video-friday-humanoid-robot-production",
     "type": "industry",
     "domain": "humanoid"
-  },
-  {
-    "id": "aHR0cHM6Ly9z",
-    "title": "Video Friday: Who Wins in Robot vs. Pro Ping-Pong Player?",
-    "titleCn": "Video Friday: Who Wins in 机器人 vs. Pro Ping-Pong Player?",
-    "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
-    "summaryCn": "Video Friday is your weekly selection of awesome 机器人s videos, collected by your friends at IEEE Spectrum 机器人s. We also post a weekly calendar of upcoming 机器人s events for the next few month",
-    "source": "IEEE Spectrum",
-    "date": "2026-04-24",
-    "link": "https://spectrum.ieee.org/video-friday-ping-pong-robot",
-    "type": "research",
-    "domain": "research"
   }
 ]

@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-07",
+  "title": "ROBOT HOT 日报 — 2026-07-07",
+  "totalItems": 1,
+  "sections": [
+    {
+      "key": "research",
+      "label": "学术研究",
+      "emoji": "📄",
+      "count": 1,
+      "items": [
+        {
+          "title": "IEEE Honors Robotics Pioneer Toshio Fukuda",
+          "titleCn": "IEEE Honors 机器人s Pioneer Toshio Fukuda",
+          "summary": "Toshio Fukuda has been blazing trails for most of his career. He is considered to be one of the most prolific scholars in robotics, writing more than 2,000 research papers and authoring several books ...",
+          "summaryCn": "Toshio Fukuda has been blazing trails for most of his career. He is considered to be one of the most prolific scholars in 机器人s, writing more than 2,000 研究 论文s and authoring several books ",
+          "source": "IEEE Spectrum",
+          "link": "https://spectrum.ieee.org/ieee-honors-toshio-fukuda",
+          "type": "product"
+        }
+      ]
+    }
+  ]
+}
