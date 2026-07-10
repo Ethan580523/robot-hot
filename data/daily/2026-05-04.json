@@ -1,7 +1,7 @@
 {
   "date": "2026-05-04",
   "title": "ROBOT HOT 日报 — 2026-05-04",
-  "totalItems": 2,
+  "totalItems": 1,
   "sections": [
     {
       "key": "humanoid",
@@ -16,23 +16,6 @@
           "summaryCn": "Two years ago, Colin Angle stepped down as CEO of i机器人, the company that he cofounded and the most successful home 机器人 company the world has ever seen. Angle almost immediately founded a stealthy ",
           "source": "IEEE Spectrum",
           "link": "https://spectrum.ieee.org/familiar-machines-and-magic",
-          "type": "product"
-        }
-      ]
-    },
-    {
-      "key": "embodied",
-      "label": "具身智能",
-      "emoji": "🧠",
-      "count": 1,
-      "items": [
-        {
-          "title": "DAIMON Robotics Wants to Give Robot Hands a Sense of Touch",
-          "titleCn": "DAIMON 机器人s Wants to Give 机器人 Hands a Sense of Touch",
-          "summary": "This article is brought to you by DAIMON Robotics.This April, Hong Kong-based DAIMON Robotics has released Daimon-Infinity, which it describes as the largest omni-modal robotic dataset for physical AI...",
-          "summaryCn": "This article is brought to you by DAIMON 机器人s.This April, Hong Kong-based DAIMON 机器人s has 发布 Daimon-Infinity, which it describes as the largest omni-modal 机器人 数据集 for 物理AI",
-          "source": "IEEE Spectrum",
-          "link": "https://spectrum.ieee.org/daimon-robotics-physical-ai",
           "type": "product"
         }
       ]

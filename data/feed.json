@@ -1,6 +1,18 @@
 [
   {
     "id": "aHR0cHM6Ly9z",
+    "title": "Video Friday: A World Cup for Robots",
+    "titleCn": "Video Friday: A World Cup for 机器人",
+    "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
+    "summaryCn": "Video Friday is your weekly selection of awesome 机器人s videos, collected by your friends at IEEE Spectrum 机器人s. We also post a weekly calendar of upcoming 机器人s events for the next few month",
+    "source": "IEEE Spectrum",
+    "date": "2026-07-10",
+    "link": "https://spectrum.ieee.org/video-friday-robot-world-cup",
+    "type": "research",
+    "domain": "humanoid"
+  },
+  {
+    "id": "aHR0cHM6Ly9z",
     "title": "Ground Robots Inherit the Kill Zone",
     "titleCn": "Ground 机器人 Inherit the Kill Zone",
     "summary": "Borys Drozhak has a vision: a frontline almost free of humans, patrolled by flying drones and ground robots, and continuously monitored by AI-controlled sensor networks. And it’s not a pipe dream. Ukr...",
@@ -346,17 +358,5 @@
     "link": "https://spectrum.ieee.org/familiar-machines-and-magic",
     "type": "product",
     "domain": "humanoid"
-  },
-  {
-    "id": "aHR0cHM6Ly9z",
-    "title": "DAIMON Robotics Wants to Give Robot Hands a Sense of Touch",
-    "titleCn": "DAIMON 机器人s Wants to Give 机器人 Hands a Sense of Touch",
-    "summary": "This article is brought to you by DAIMON Robotics.This April, Hong Kong-based DAIMON Robotics has released Daimon-Infinity, which it describes as the largest omni-modal robotic dataset for physical AI...",
-    "summaryCn": "This article is brought to you by DAIMON 机器人s.This April, Hong Kong-based DAIMON 机器人s has 发布 Daimon-Infinity, which it describes as the largest omni-modal 机器人 数据集 for 物理AI",
-    "source": "IEEE Spectrum",
-    "date": "2026-05-04",
-    "link": "https://spectrum.ieee.org/daimon-robotics-physical-ai",
-    "type": "product",
-    "domain": "embodied"
   }
 ]

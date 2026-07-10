@@ -1,8 +1,25 @@
 {
   "date": "2026-07-10",
   "title": "ROBOT HOT 日报 — 2026-07-10",
-  "totalItems": 1,
+  "totalItems": 2,
   "sections": [
+    {
+      "key": "humanoid",
+      "label": "人形机器人",
+      "emoji": "🤖",
+      "count": 1,
+      "items": [
+        {
+          "title": "Video Friday: A World Cup for Robots",
+          "titleCn": "Video Friday: A World Cup for 机器人",
+          "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
+          "summaryCn": "Video Friday is your weekly selection of awesome 机器人s videos, collected by your friends at IEEE Spectrum 机器人s. We also post a weekly calendar of upcoming 机器人s events for the next few month",
+          "source": "IEEE Spectrum",
+          "link": "https://spectrum.ieee.org/video-friday-robot-world-cup",
+          "type": "research"
+        }
+      ]
+    },
     {
       "key": "drone",
       "label": "无人机/移动",
