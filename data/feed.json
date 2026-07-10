@@ -1,6 +1,18 @@
 [
   {
     "id": "aHR0cHM6Ly9z",
+    "title": "Ground Robots Inherit the Kill Zone",
+    "titleCn": "Ground 机器人 Inherit the Kill Zone",
+    "summary": "Borys Drozhak has a vision: a frontline almost free of humans, patrolled by flying drones and ground robots, and continuously monitored by AI-controlled sensor networks. And it’s not a pipe dream. Ukr...",
+    "summaryCn": "Borys Drozhak has a vision: a frontline almost free of humans, patrolled by flying 无人机s and ground 机器人, and continuously monitored by AI-控制led 传感器 networks. And it’s not a pipe dream. Ukr",
+    "source": "IEEE Spectrum",
+    "date": "2026-07-10",
+    "link": "https://spectrum.ieee.org/ukraine-ground-drones",
+    "type": "product",
+    "domain": "drone"
+  },
+  {
+    "id": "aHR0cHM6Ly9z",
     "title": "IEEE Honors Robotics Pioneer Toshio Fukuda",
     "titleCn": "IEEE Honors 机器人s Pioneer Toshio Fukuda",
     "summary": "Toshio Fukuda has been blazing trails for most of his career. He is considered to be one of the most prolific scholars in robotics, writing more than 2,000 research papers and authoring several books ...",
@@ -346,17 +358,5 @@
     "link": "https://spectrum.ieee.org/daimon-robotics-physical-ai",
     "type": "product",
     "domain": "embodied"
-  },
-  {
-    "id": "aHR0cHM6Ly9z",
-    "title": "Video Friday: Figure, 1X Ramp Up Humanoid Robot Production",
-    "titleCn": "Video Friday: Figure, 1X Ramp Up 人形机器人 生产",
-    "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
-    "summaryCn": "Video Friday is your weekly selection of awesome 机器人s videos, collected by your friends at IEEE Spectrum 机器人s. We also post a weekly calendar of upcoming 机器人s events for the next few month",
-    "source": "IEEE Spectrum",
-    "date": "2026-05-01",
-    "link": "https://spectrum.ieee.org/video-friday-humanoid-robot-production",
-    "type": "industry",
-    "domain": "humanoid"
   }
 ]
