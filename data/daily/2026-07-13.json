@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-13",
+  "title": "ROBOT HOT 日报 — 2026-07-13",
+  "totalItems": 1,
+  "sections": [
+    {
+      "key": "embodied",
+      "label": "具身智能",
+      "emoji": "🧠",
+      "count": 1,
+      "items": [
+        {
+          "title": "Building a Foundation Stack for General-Purpose Robots",
+          "titleCn": "Building a Foundation Stack for General-Purpose 机器人",
+          "summary": "This article is brought to you by X Square Robot.Large language models gave artificial intelligence a working recipe. Pretrain a large model on broad data, and general capability follows. Robotics has...",
+          "summaryCn": "This article is brought to you by X Square 机器人.大语言模型s gave 人工智能 a working recipe. Pretrain a large model on broad data, and general capability follows. 机器人s has",
+          "source": "IEEE Spectrum",
+          "link": "https://spectrum.ieee.org/x-square-robot-embodied-ai-stack",
+          "type": "industry"
+        }
+      ]
+    }
+  ]
+}

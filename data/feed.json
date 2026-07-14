@@ -1,6 +1,18 @@
 [
   {
     "id": "aHR0cHM6Ly9z",
+    "title": "Building a Foundation Stack for General-Purpose Robots",
+    "titleCn": "Building a Foundation Stack for General-Purpose 机器人",
+    "summary": "This article is brought to you by X Square Robot.Large language models gave artificial intelligence a working recipe. Pretrain a large model on broad data, and general capability follows. Robotics has...",
+    "summaryCn": "This article is brought to you by X Square 机器人.大语言模型s gave 人工智能 a working recipe. Pretrain a large model on broad data, and general capability follows. 机器人s has",
+    "source": "IEEE Spectrum",
+    "date": "2026-07-13",
+    "link": "https://spectrum.ieee.org/x-square-robot-embodied-ai-stack",
+    "type": "industry",
+    "domain": "embodied"
+  },
+  {
+    "id": "aHR0cHM6Ly9z",
     "title": "Video Friday: A World Cup for Robots",
     "titleCn": "Video Friday: A World Cup for 机器人",
     "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
@@ -346,17 +358,5 @@
     "link": "https://spectrum.ieee.org/video-friday-robotic-hand-dexterity",
     "type": "research",
     "domain": "components"
-  },
-  {
-    "id": "aHR0cHM6Ly9z",
-    "title": "iRobot Founder Wants to Put a Robotic Familiar Into Your Home",
-    "titleCn": "i机器人 Founder Wants to Put a 机器人 Familiar Into Your Home",
-    "summary": "Two years ago, Colin Angle stepped down as CEO of iRobot, the company that he cofounded and the most successful home robot company the world has ever seen. Angle almost immediately founded a stealthy ...",
-    "summaryCn": "Two years ago, Colin Angle stepped down as CEO of i机器人, the company that he cofounded and the most successful home 机器人 company the world has ever seen. Angle almost immediately founded a stealthy ",
-    "source": "IEEE Spectrum",
-    "date": "2026-05-04",
-    "link": "https://spectrum.ieee.org/familiar-machines-and-magic",
-    "type": "product",
-    "domain": "humanoid"
   }
 ]
