@@ -1,6 +1,18 @@
 [
   {
     "id": "aHR0cHM6Ly9z",
+    "title": "How to Make an Invisible Drone",
+    "titleCn": "How to Make an Invisible 无人机",
+    "summary": "There are many words that I would never, ever use to describe a drone. Stealthy. Subtle. Whatever the opposite of obnoxious is. Much of this is because of the giant angry bee sound that drones tend to...",
+    "summaryCn": "There are many words that I would never, ever use to describe a 无人机. Stealthy. Subtle. Whatever the opposite of obnoxious is. Much of this is because of the giant angry bee sound that 无人机s tend to",
+    "source": "IEEE Spectrum",
+    "date": "2026-07-16",
+    "link": "https://spectrum.ieee.org/invisible-spinning-drone",
+    "type": "research",
+    "domain": "drone"
+  },
+  {
+    "id": "aHR0cHM6Ly9z",
     "title": "Building a Foundation Stack for General-Purpose Robots",
     "titleCn": "Building a Foundation Stack for General-Purpose 机器人",
     "summary": "This article is brought to you by X Square Robot.Large language models gave artificial intelligence a working recipe. Pretrain a large model on broad data, and general capability follows. Robotics has...",
@@ -346,17 +358,5 @@
     "link": "https://spectrum.ieee.org/stretch-4-home-robot",
     "type": "product",
     "domain": "humanoid"
-  },
-  {
-    "id": "aHR0cHM6Ly9z",
-    "title": "Video Friday: AI Gives Robot Hands Humanlike Dexterity",
-    "titleCn": "Video Friday: AI Gives 机器人 Hands Humanlike Dexterity",
-    "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
-    "summaryCn": "Video Friday is your weekly selection of awesome 机器人s videos, collected by your friends at IEEE Spectrum 机器人s. We also post a weekly calendar of upcoming 机器人s events for the next few month",
-    "source": "IEEE Spectrum",
-    "date": "2026-05-09",
-    "link": "https://spectrum.ieee.org/video-friday-robotic-hand-dexterity",
-    "type": "research",
-    "domain": "components"
   }
 ]

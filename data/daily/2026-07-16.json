@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-16",
+  "title": "ROBOT HOT 日报 — 2026-07-16",
+  "totalItems": 1,
+  "sections": [
+    {
+      "key": "drone",
+      "label": "无人机/移动",
+      "emoji": "🚁",
+      "count": 1,
+      "items": [
+        {
+          "title": "How to Make an Invisible Drone",
+          "titleCn": "How to Make an Invisible 无人机",
+          "summary": "There are many words that I would never, ever use to describe a drone. Stealthy. Subtle. Whatever the opposite of obnoxious is. Much of this is because of the giant angry bee sound that drones tend to...",
+          "summaryCn": "There are many words that I would never, ever use to describe a 无人机. Stealthy. Subtle. Whatever the opposite of obnoxious is. Much of this is because of the giant angry bee sound that 无人机s tend to",
+          "source": "IEEE Spectrum",
+          "link": "https://spectrum.ieee.org/invisible-spinning-drone",
+          "type": "research"
+        }
+      ]
+    }
+  ]
+}
