@@ -1,6 +1,18 @@
 [
   {
     "id": "aHR0cHM6Ly9z",
+    "title": "Video Friday: An Italian Humanoid Comes to Life",
+    "titleCn": "Video Friday: An Italian 人形机器人 Comes to Life",
+    "summary": "Your weekly selection of awesome robot videosVideo Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of up...",
+    "summaryCn": "Your weekly selection of awesome 机器人 videosVideo Friday is your weekly selection of awesome 机器人s videos, collected by your friends at IEEE Spectrum 机器人s. We also post a weekly calendar of up",
+    "source": "IEEE Spectrum",
+    "date": "2026-07-24",
+    "link": "https://spectrum.ieee.org/video-friday-physical-ai-robotics",
+    "type": "industry",
+    "domain": "embodied"
+  },
+  {
+    "id": "aHR0cHM6Ly9z",
     "title": "This Graduate Student Equips NASA’s Robots With Assembly Skills",
     "titleCn": "This Graduate Student Equips NASA’s 机器人 With 装配 Skills",
     "summary": "Like many engineers, Sarah Downs says she knew she wanted to pursue a STEM career from a young age. As a teenager, she discovered robotics through her Tulsa, Okla., middle school’s First Lego League t...",
@@ -346,17 +358,5 @@
     "link": "https://spectrum.ieee.org/dull-dirty-dangerous-robots",
     "type": "opinion",
     "domain": "industrial"
-  },
-  {
-    "id": "aHR0cHM6Ly9l",
-    "title": "Agentic AI for Robot Teams",
-    "titleCn": "Agentic AI for 机器人 Teams",
-    "summary": "This presentation highlights recent efforts at the Johns Hopkins Applied Physics Laboratory to advance agentic AI for collaborative robotic teams. It begins by framing the core challenges of enabling ...",
-    "summaryCn": "This presentation highlights recent efforts at the Johns Hopkins Applied Physics Laboratory to advance agentic AI for 协作机器人ic teams. It begins by framing the core challenges of enabling ",
-    "source": "IEEE Spectrum",
-    "date": "2026-05-18",
-    "link": "https://events.bizzabo.com/867156",
-    "type": "research",
-    "domain": "research"
   }
 ]

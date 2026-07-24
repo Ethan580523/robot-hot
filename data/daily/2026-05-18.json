@@ -1,7 +1,7 @@
 {
   "date": "2026-05-18",
   "title": "ROBOT HOT 日报 — 2026-05-18",
-  "totalItems": 2,
+  "totalItems": 1,
   "sections": [
     {
       "key": "industrial",
@@ -17,23 +17,6 @@
           "source": "IEEE Spectrum",
           "link": "https://spectrum.ieee.org/dull-dirty-dangerous-robots",
           "type": "opinion"
-        }
-      ]
-    },
-    {
-      "key": "research",
-      "label": "学术研究",
-      "emoji": "📄",
-      "count": 1,
-      "items": [
-        {
-          "title": "Agentic AI for Robot Teams",
-          "titleCn": "Agentic AI for 机器人 Teams",
-          "summary": "This presentation highlights recent efforts at the Johns Hopkins Applied Physics Laboratory to advance agentic AI for collaborative robotic teams. It begins by framing the core challenges of enabling ...",
-          "summaryCn": "This presentation highlights recent efforts at the Johns Hopkins Applied Physics Laboratory to advance agentic AI for 协作机器人ic teams. It begins by framing the core challenges of enabling ",
-          "source": "IEEE Spectrum",
-          "link": "https://events.bizzabo.com/867156",
-          "type": "research"
         }
       ]
     }

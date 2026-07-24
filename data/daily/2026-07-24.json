@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-24",
+  "title": "ROBOT HOT 日报 — 2026-07-24",
+  "totalItems": 1,
+  "sections": [
+    {
+      "key": "embodied",
+      "label": "具身智能",
+      "emoji": "🧠",
+      "count": 1,
+      "items": [
+        {
+          "title": "Video Friday: An Italian Humanoid Comes to Life",
+          "titleCn": "Video Friday: An Italian 人形机器人 Comes to Life",
+          "summary": "Your weekly selection of awesome robot videosVideo Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of up...",
+          "summaryCn": "Your weekly selection of awesome 机器人 videosVideo Friday is your weekly selection of awesome 机器人s videos, collected by your friends at IEEE Spectrum 机器人s. We also post a weekly calendar of up",
+          "source": "IEEE Spectrum",
+          "link": "https://spectrum.ieee.org/video-friday-physical-ai-robotics",
+          "type": "industry"
+        }
+      ]
+    }
+  ]
+}
