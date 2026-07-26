@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-26",
+  "title": "ROBOT HOT 日报 — 2026-07-26",
+  "totalItems": 1,
+  "sections": [
+    {
+      "key": "drone",
+      "label": "无人机/移动",
+      "emoji": "🚁",
+      "count": 1,
+      "items": [
+        {
+          "title": "Optical Tech Would Update a Robot’s AI on the Fly",
+          "titleCn": "Optical Tech Would Update a 机器人’s AI on the Fly",
+          "summary": "Atop a lab bench, Cornell Tech postdoctoral researcher Yifan He positions the lens of an optical receiver almost a meter away from an LED emitting a beam of red light. The computer monitor attached to...",
+          "summaryCn": "Atop a lab bench, Cornell Tech postdoctoral 研究er Yifan He positions the lens of an optical receiver almost a meter away from an LED emitting a beam of red light. The computer monitor attached to",
+          "source": "IEEE Spectrum",
+          "link": "https://spectrum.ieee.org/ai-in-robotics",
+          "type": "research"
+        }
+      ]
+    }
+  ]
+}

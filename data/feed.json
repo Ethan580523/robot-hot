@@ -1,10 +1,22 @@
 [
   {
     "id": "aHR0cHM6Ly9z",
+    "title": "Optical Tech Would Update a Robot’s AI on the Fly",
+    "titleCn": "Optical Tech Would Update a 机器人’s AI on the Fly",
+    "summary": "Atop a lab bench, Cornell Tech postdoctoral researcher Yifan He positions the lens of an optical receiver almost a meter away from an LED emitting a beam of red light. The computer monitor attached to...",
+    "summaryCn": "Atop a lab bench, Cornell Tech postdoctoral 研究er Yifan He positions the lens of an optical receiver almost a meter away from an LED emitting a beam of red light. The computer monitor attached to",
+    "source": "IEEE Spectrum",
+    "date": "2026-07-26",
+    "link": "https://spectrum.ieee.org/ai-in-robotics",
+    "type": "research",
+    "domain": "drone"
+  },
+  {
+    "id": "aHR0cHM6Ly9z",
     "title": "Video Friday: An Italian Humanoid Comes to Life",
     "titleCn": "Video Friday: An Italian 人形机器人 Comes to Life",
-    "summary": "Your weekly selection of awesome robot videosVideo Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of up...",
-    "summaryCn": "Your weekly selection of awesome 机器人 videosVideo Friday is your weekly selection of awesome 机器人s videos, collected by your friends at IEEE Spectrum 机器人s. We also post a weekly calendar of up",
+    "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
+    "summaryCn": "Video Friday is your weekly selection of awesome 机器人s videos, collected by your friends at IEEE Spectrum 机器人s. We also post a weekly calendar of upcoming 机器人s events for the next few month",
     "source": "IEEE Spectrum",
     "date": "2026-07-24",
     "link": "https://spectrum.ieee.org/video-friday-physical-ai-robotics",
@@ -346,17 +358,5 @@
     "link": "https://spectrum.ieee.org/domestic-humanoid-robot-safety-standards",
     "type": "industry",
     "domain": "humanoid"
-  },
-  {
-    "id": "aHR0cHM6Ly9z",
-    "title": "What Makes a Job Dull, Dirty, or Dangerous?",
-    "titleCn": "What Makes a Job Dull, Dirty, or Dangerous?",
-    "summary": "For years, the field of robotics has used the terms “dull, dirty, and dangerous” (DDD) to describe the types of tasks or jobs where robots might be useful—by doing work that’s undesirable for people. ...",
-    "summaryCn": "For years, the field of 机器人s has used the terms “dull, dirty, and dangerous” (DDD) to describe the types of tasks or jobs where 机器人 might be useful—by doing work that’s undesirable for people. ",
-    "source": "IEEE Spectrum",
-    "date": "2026-05-18",
-    "link": "https://spectrum.ieee.org/dull-dirty-dangerous-robots",
-    "type": "opinion",
-    "domain": "industrial"
   }
 ]
