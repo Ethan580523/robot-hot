@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-28",
+  "title": "ROBOT HOT 日报 — 2026-07-28",
+  "totalItems": 1,
+  "sections": [
+    {
+      "key": "humanoid",
+      "label": "人形机器人",
+      "emoji": "🤖",
+      "count": 1,
+      "items": [
+        {
+          "title": "Robot Finger Feels in Color",
+          "titleCn": "机器人 Finger Feels in Color",
+          "summary": "Imagine running your fingertip over the surface of a U.S. penny. You would feel the ridges of the raised letters and numbers, Abe Lincoln’s bearded side profile, and, if it’s tails, the fluted columns...",
+          "summaryCn": "Imagine running your fingertip over the surface of a U.S. penny. You would feel the ridges of the raised letters and numbers, Abe Lincoln’s bearded side profile, and, if it’s tails, the fluted columns",
+          "source": "IEEE Spectrum",
+          "link": "https://spectrum.ieee.org/robot-finger",
+          "type": "research"
+        }
+      ]
+    }
+  ]
+}

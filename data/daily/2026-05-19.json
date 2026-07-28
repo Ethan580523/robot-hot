@@ -1,13 +1,13 @@
 {
   "date": "2026-05-19",
   "title": "ROBOT HOT 日报 — 2026-05-19",
-  "totalItems": 2,
+  "totalItems": 1,
   "sections": [
     {
       "key": "humanoid",
       "label": "人形机器人",
       "emoji": "🤖",
-      "count": 2,
+      "count": 1,
       "items": [
         {
           "title": "Robots Could Turn E-Waste Into a Source of Legacy Chips",
@@ -16,15 +16,6 @@
           "summaryCn": "Electronic waste is moving up on regulatory agendas in 2026. New European waste-shipment rules, expanded recycling fees on products with non-removable batteries in California, and an e-waste import ba",
           "source": "IEEE Spectrum",
           "link": "https://spectrum.ieee.org/e-waste-recycling-robots-ram",
-          "type": "industry"
-        },
-        {
-          "title": "Home Robot Safety Is All About Relationships",
-          "titleCn": "Home 机器人 安全 Is All About Relation出货",
-          "summary": "The International Organization for Standardization (ISO) is updating its 12-year-old safety requirements for personal care robots. A lot has happened since the last revision, both on the technology si...",
-          "summaryCn": "The International Organization for Standardization (ISO) is updating its 12-year-old 安全 requirements for personal care 机器人. A lot has happened since the last revision, both on the technology si",
-          "source": "IEEE Spectrum",
-          "link": "https://spectrum.ieee.org/domestic-humanoid-robot-safety-standards",
           "type": "industry"
         }
       ]

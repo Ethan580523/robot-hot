@@ -1,6 +1,18 @@
 [
   {
     "id": "aHR0cHM6Ly9z",
+    "title": "Robot Finger Feels in Color",
+    "titleCn": "机器人 Finger Feels in Color",
+    "summary": "Imagine running your fingertip over the surface of a U.S. penny. You would feel the ridges of the raised letters and numbers, Abe Lincoln’s bearded side profile, and, if it’s tails, the fluted columns...",
+    "summaryCn": "Imagine running your fingertip over the surface of a U.S. penny. You would feel the ridges of the raised letters and numbers, Abe Lincoln’s bearded side profile, and, if it’s tails, the fluted columns",
+    "source": "IEEE Spectrum",
+    "date": "2026-07-28",
+    "link": "https://spectrum.ieee.org/robot-finger",
+    "type": "research",
+    "domain": "humanoid"
+  },
+  {
+    "id": "aHR0cHM6Ly9z",
     "title": "Optical Tech Would Update a Robot’s AI on the Fly",
     "titleCn": "Optical Tech Would Update a 机器人’s AI on the Fly",
     "summary": "Atop a lab bench, Cornell Tech postdoctoral researcher Yifan He positions the lens of an optical receiver almost a meter away from an LED emitting a beam of red light. The computer monitor attached to...",
@@ -344,18 +356,6 @@
     "source": "IEEE Spectrum",
     "date": "2026-05-19",
     "link": "https://spectrum.ieee.org/e-waste-recycling-robots-ram",
-    "type": "industry",
-    "domain": "humanoid"
-  },
-  {
-    "id": "aHR0cHM6Ly9z",
-    "title": "Home Robot Safety Is All About Relationships",
-    "titleCn": "Home 机器人 安全 Is All About Relation出货",
-    "summary": "The International Organization for Standardization (ISO) is updating its 12-year-old safety requirements for personal care robots. A lot has happened since the last revision, both on the technology si...",
-    "summaryCn": "The International Organization for Standardization (ISO) is updating its 12-year-old 安全 requirements for personal care 机器人. A lot has happened since the last revision, both on the technology si",
-    "source": "IEEE Spectrum",
-    "date": "2026-05-19",
-    "link": "https://spectrum.ieee.org/domestic-humanoid-robot-safety-standards",
     "type": "industry",
     "domain": "humanoid"
   }
