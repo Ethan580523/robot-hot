@@ -1,6 +1,30 @@
 [
   {
     "id": "aHR0cHM6Ly9z",
+    "title": "Walden Robotics Partners With Toyota on Practical Humanoids",
+    "titleCn": "Walden 机器人s Partners With Toyota on Practical 人形机器人s",
+    "summary": "For a while there, it seemed as though robotics as a whole was stuck in a mad rush towards building humanoid robots mostly because it was very possible (and very lucrative) to do so, even without near...",
+    "summaryCn": "For a while there, it seemed as though 机器人s as a whole was stuck in a mad rush towards building 人形机器人s mostly because it was very possible (and very lucrative) to do so, even without near",
+    "source": "IEEE Spectrum",
+    "date": "2026-08-03",
+    "link": "https://spectrum.ieee.org/humanoid-robots-walden-robotics-toyota",
+    "type": "industry",
+    "domain": "policy"
+  },
+  {
+    "id": "aHR0cHM6Ly9z",
+    "title": "Video Friday: Meet Google DeepMind’s Gemini Robotics 2",
+    "titleCn": "Video Friday: Meet Google DeepMind’s Gemini 机器人s 2",
+    "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
+    "summaryCn": "Video Friday is your weekly selection of awesome 机器人s videos, collected by your friends at IEEE Spectrum 机器人s. We also post a weekly calendar of upcoming 机器人s events for the next few month",
+    "source": "IEEE Spectrum",
+    "date": "2026-07-31",
+    "link": "https://spectrum.ieee.org/video-robot-gemini2-ai-robot",
+    "type": "industry",
+    "domain": "humanoid"
+  },
+  {
+    "id": "aHR0cHM6Ly9z",
     "title": "Robot Finger Feels in Color",
     "titleCn": "机器人 Finger Feels in Color",
     "summary": "Imagine running your fingertip over the surface of a U.S. penny. You would feel the ridges of the raised letters and numbers, Abe Lincoln’s bearded side profile, and, if it’s tails, the fluted columns...",
@@ -334,29 +358,5 @@
     "link": "https://spectrum.ieee.org/wetour-robotics-physical-ai-human-interfaces",
     "type": "industry",
     "domain": "embodied"
-  },
-  {
-    "id": "aHR0cHM6Ly9z",
-    "title": "Will Robotics Have a ChatGPT Moment?",
-    "titleCn": "Will 机器人s Have a ChatGPT Moment?",
-    "summary": "Over the next few decades, billions of autonomous, AI-powered robots will work alongside people in factories, perform tedious tasks in warehouses, care for the elderly, assist in unsafe disaster areas...",
-    "summaryCn": "Over the next few decades, billions of 自主, AI-动力ed 机器人 will work alongside people in factories, perform tedious tasks in 仓库s, care for the elderly, assist in unsafe disaster areas",
-    "source": "IEEE Spectrum",
-    "date": "2026-05-20",
-    "link": "https://spectrum.ieee.org/robotics-ai-breakthrough",
-    "type": "industry",
-    "domain": "policy"
-  },
-  {
-    "id": "aHR0cHM6Ly9z",
-    "title": "Robots Could Turn E-Waste Into a Source of Legacy Chips",
-    "titleCn": "机器人 Could Turn E-Waste Into a Source of Legacy Chips",
-    "summary": "Electronic waste is moving up on regulatory agendas in 2026. New European waste-shipment rules, expanded recycling fees on products with non-removable batteries in California, and an e-waste import ba...",
-    "summaryCn": "Electronic waste is moving up on regulatory agendas in 2026. New European waste-shipment rules, expanded recycling fees on products with non-removable batteries in California, and an e-waste import ba",
-    "source": "IEEE Spectrum",
-    "date": "2026-05-19",
-    "link": "https://spectrum.ieee.org/e-waste-recycling-robots-ram",
-    "type": "industry",
-    "domain": "humanoid"
   }
 ]

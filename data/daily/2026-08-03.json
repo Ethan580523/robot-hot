@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-03",
+  "title": "ROBOT HOT 日报 — 2026-08-03",
+  "totalItems": 1,
+  "sections": [
+    {
+      "key": "policy",
+      "label": "政策/投资",
+      "emoji": "📋",
+      "count": 1,
+      "items": [
+        {
+          "title": "Walden Robotics Partners With Toyota on Practical Humanoids",
+          "titleCn": "Walden 机器人s Partners With Toyota on Practical 人形机器人s",
+          "summary": "For a while there, it seemed as though robotics as a whole was stuck in a mad rush towards building humanoid robots mostly because it was very possible (and very lucrative) to do so, even without near...",
+          "summaryCn": "For a while there, it seemed as though 机器人s as a whole was stuck in a mad rush towards building 人形机器人s mostly because it was very possible (and very lucrative) to do so, even without near",
+          "source": "IEEE Spectrum",
+          "link": "https://spectrum.ieee.org/humanoid-robots-walden-robotics-toyota",
+          "type": "industry"
+        }
+      ]
+    }
+  ]
+}
