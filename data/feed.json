@@ -1,6 +1,18 @@
 [
   {
     "id": "aHR0cHM6Ly9z",
+    "title": "What Robotics Companies Think About the U.S. Foreign Robot Ban",
+    "titleCn": "What 机器人s Companies Think About the U.S. Foreign 机器人 Ban",
+    "summary": "The U.S. Federal Communications Commission (FCC) “Covered List,” originally published in 2021, identifies communications equipment and services that it says pose a threat to national security. On 28 J...",
+    "summaryCn": "The U.S. Federal Communications Commission (FCC) “Covered List,” originally published in 2021, identifies communications equipment and services that it says pose a threat to national security. On 28 J",
+    "source": "IEEE Spectrum",
+    "date": "2026-08-04",
+    "link": "https://spectrum.ieee.org/fcc-covered-list-mobile-robots",
+    "type": "industry",
+    "domain": "policy"
+  },
+  {
+    "id": "aHR0cHM6Ly9z",
     "title": "Walden Robotics Partners With Toyota on Practical Humanoids",
     "titleCn": "Walden 机器人s Partners With Toyota on Practical 人形机器人s",
     "summary": "For a while there, it seemed as though robotics as a whole was stuck in a mad rush towards building humanoid robots mostly because it was very possible (and very lucrative) to do so, even without near...",
@@ -346,17 +358,5 @@
     "link": "https://spectrum.ieee.org/open-source-robot-ai-platforms",
     "type": "research",
     "domain": "research"
-  },
-  {
-    "id": "aHR0cHM6Ly9z",
-    "title": "The Future of Physical AI Isn’t Smarter Robots, It’s Smarter Interfaces",
-    "titleCn": "The Future of 物理AI Isn’t Smarter 机器人, It’s Smarter Interfaces",
-    "summary": "This sponsored article is brought to you by Wetour Robotics.A field technician on a wind turbine, harness clipped, both hands on a wrench, needs to send a command to the diagnostic device hanging at h...",
-    "summaryCn": "This sponsored article is brought to you by Wetour 机器人s.A field technician on a wind turbine, harness clipped, both hands on a wrench, needs to send a command to the diagnostic device hanging at h",
-    "source": "IEEE Spectrum",
-    "date": "2026-05-21",
-    "link": "https://spectrum.ieee.org/wetour-robotics-physical-ai-human-interfaces",
-    "type": "industry",
-    "domain": "embodied"
   }
 ]

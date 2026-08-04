@@ -1,7 +1,7 @@
 {
   "date": "2026-05-21",
   "title": "ROBOT HOT 日报 — 2026-05-21",
-  "totalItems": 2,
+  "totalItems": 1,
   "sections": [
     {
       "key": "research",
@@ -17,23 +17,6 @@
           "source": "IEEE Spectrum",
           "link": "https://spectrum.ieee.org/open-source-robot-ai-platforms",
           "type": "research"
-        }
-      ]
-    },
-    {
-      "key": "embodied",
-      "label": "具身智能",
-      "emoji": "🧠",
-      "count": 1,
-      "items": [
-        {
-          "title": "The Future of Physical AI Isn’t Smarter Robots, It’s Smarter Interfaces",
-          "titleCn": "The Future of 物理AI Isn’t Smarter 机器人, It’s Smarter Interfaces",
-          "summary": "This sponsored article is brought to you by Wetour Robotics.A field technician on a wind turbine, harness clipped, both hands on a wrench, needs to send a command to the diagnostic device hanging at h...",
-          "summaryCn": "This sponsored article is brought to you by Wetour 机器人s.A field technician on a wind turbine, harness clipped, both hands on a wrench, needs to send a command to the diagnostic device hanging at h",
-          "source": "IEEE Spectrum",
-          "link": "https://spectrum.ieee.org/wetour-robotics-physical-ai-human-interfaces",
-          "type": "industry"
         }
       ]
     }

@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-04",
+  "title": "ROBOT HOT 日报 — 2026-08-04",
+  "totalItems": 1,
+  "sections": [
+    {
+      "key": "policy",
+      "label": "政策/投资",
+      "emoji": "📋",
+      "count": 1,
+      "items": [
+        {
+          "title": "What Robotics Companies Think About the U.S. Foreign Robot Ban",
+          "titleCn": "What 机器人s Companies Think About the U.S. Foreign 机器人 Ban",
+          "summary": "The U.S. Federal Communications Commission (FCC) “Covered List,” originally published in 2021, identifies communications equipment and services that it says pose a threat to national security. On 28 J...",
+          "summaryCn": "The U.S. Federal Communications Commission (FCC) “Covered List,” originally published in 2021, identifies communications equipment and services that it says pose a threat to national security. On 28 J",
+          "source": "IEEE Spectrum",
+          "link": "https://spectrum.ieee.org/fcc-covered-list-mobile-robots",
+          "type": "industry"
+        }
+      ]
+    }
+  ]
+}
