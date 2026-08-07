@@ -1,6 +1,18 @@
 [
   {
     "id": "aHR0cHM6Ly9z",
+    "title": "Video Friday: Drones Go Heavy in DARPA Lift Challenge",
+    "titleCn": "Video Friday: 无人机s Go Heavy in DARPA Lift Challenge",
+    "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
+    "summaryCn": "Video Friday is your weekly selection of awesome 机器人s videos, collected by your friends at IEEE Spectrum 机器人s. We also post a weekly calendar of upcoming 机器人s events for the next few month",
+    "source": "IEEE Spectrum",
+    "date": "2026-08-07",
+    "link": "https://spectrum.ieee.org/video-friday-heavy-lift-drone",
+    "type": "research",
+    "domain": "drone"
+  },
+  {
+    "id": "aHR0cHM6Ly9z",
     "title": "What Robotics Companies Think About the U.S. Foreign Robot Ban",
     "titleCn": "What 机器人s Companies Think About the U.S. Foreign 机器人 Ban",
     "summary": "The U.S. Federal Communications Commission (FCC) “Covered List,” originally published in 2021, identifies communications equipment and services that it says pose a threat to national security. On 28 J...",
@@ -346,17 +358,5 @@
     "link": "https://spectrum.ieee.org/video-friday-humanoid-robot-learning",
     "type": "product",
     "domain": "humanoid"
-  },
-  {
-    "id": "aHR0cHM6Ly9z",
-    "title": "Open-Source Software Is Starting to Help Robots Think",
-    "titleCn": "Open-Source Software Is Starting to Help 机器人 Think",
-    "summary": "When a group of academics started making open-source robotics hardware, a generation of roboticists got years of their lives back. Now, the bigger challenge is getting robots to think—and that’s start...",
-    "summaryCn": "When a group of academics started making open-source 机器人s hardware, a generation of 机器人ists got years of their lives back. Now, the bigger challenge is getting 机器人 to think—and that’s start",
-    "source": "IEEE Spectrum",
-    "date": "2026-05-21",
-    "link": "https://spectrum.ieee.org/open-source-robot-ai-platforms",
-    "type": "research",
-    "domain": "research"
   }
 ]
