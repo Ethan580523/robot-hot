@@ -1,6 +1,18 @@
 [
   {
     "id": "aHR0cHM6Ly9z",
+    "title": "Video Friday: Lift Happens",
+    "titleCn": "Video Friday: Lift Happens",
+    "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
+    "summaryCn": "Video Friday is your weekly selection of awesome 机器人s videos, collected by your friends at IEEE Spectrum 机器人s. We also post a weekly calendar of upcoming 机器人s events for the next few month",
+    "source": "IEEE Spectrum",
+    "date": "2026-08-14",
+    "link": "https://spectrum.ieee.org/video-friday-darpa-heavy-lift-challenge",
+    "type": "industry",
+    "domain": "humanoid"
+  },
+  {
+    "id": "aHR0cHM6Ly9z",
     "title": "Robot Recycler Salvages Parts From Broken Machines",
     "titleCn": "机器人 Recycler Salvages Parts From Broken Machines",
     "summary": "Objects constructed by robots are ubiquitous. If you’ve used a car, household appliance, or smartphone today, you’ve used an object constructed at least in part by robots. The more products that manuf...",
@@ -344,18 +356,6 @@
     "source": "IEEE Spectrum",
     "date": "2026-05-31",
     "link": "https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot",
-    "type": "product",
-    "domain": "humanoid"
-  },
-  {
-    "id": "aHR0cHM6Ly9z",
-    "title": "Video Friday: Extreme Omnidirectional Robot",
-    "titleCn": "Video Friday: Extreme Omnidirectional 机器人",
-    "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
-    "summaryCn": "Video Friday is your weekly selection of awesome 机器人s videos, collected by your friends at IEEE Spectrum 机器人s. We also post a weekly calendar of upcoming 机器人s events for the next few month",
-    "source": "IEEE Spectrum",
-    "date": "2026-05-29",
-    "link": "https://spectrum.ieee.org/video-friday-rabona-soccer",
     "type": "product",
     "domain": "humanoid"
   }
