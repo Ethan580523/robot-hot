@@ -1,6 +1,18 @@
 [
   {
     "id": "aHR0cHM6Ly9z",
+    "title": "Is Shipyard Welding the Right First Job for Humanoid Robots?",
+    "titleCn": "Is Shipyard 焊接 the Right First Job for 人形机器人s?",
+    "summary": "Humanoids desperately need to stop making YouTube videos and get a job already, and Persona AI is one of the few humanoid companies which seems to be entirely focused on making that happen. Persona’s ...",
+    "summaryCn": "人形机器人s desperately need to stop making YouTube videos and get a job already, and Persona AI is one of the few 人形机器人 companies which seems to be entirely focused on making that happen. Persona’s ",
+    "source": "IEEE Spectrum",
+    "date": "2026-08-17",
+    "link": "https://spectrum.ieee.org/persona-ai-humanoid-robot-welding",
+    "type": "industry",
+    "domain": "humanoid"
+  },
+  {
+    "id": "aHR0cHM6Ly9z",
     "title": "Video Friday: Lift Happens",
     "titleCn": "Video Friday: Lift Happens",
     "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
@@ -345,18 +357,6 @@
     "date": "2026-06-05",
     "link": "https://spectrum.ieee.org/video-friday-humanoid-robot-running",
     "type": "industry",
-    "domain": "humanoid"
-  },
-  {
-    "id": "aHR0cHM6Ly9z",
-    "title": "This DIY Bipedal Robot Used Pneumatic “Air-Muscles” Instead of Motors",
-    "titleCn": "This DIY 双足 机器人 Used Pneumatic “Air-Muscles” Instead of 电机s",
-    "summary": "In 1987, Richard Greenhill, a British photographer who was fascinated by (but had no actual training in) robotics, decided he wanted to build a life-size humanoid that could do useful things, like car...",
-    "summaryCn": "In 1987, Richard Greenhill, a British photographer who was fascinated by (but had no actual 训练 in) 机器人s, decided he wanted to build a life-size 人形机器人 that could do useful things, like car",
-    "source": "IEEE Spectrum",
-    "date": "2026-05-31",
-    "link": "https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot",
-    "type": "product",
     "domain": "humanoid"
   }
 ]
