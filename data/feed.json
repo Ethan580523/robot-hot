@@ -1,6 +1,18 @@
 [
   {
     "id": "aHR0cHM6Ly9z",
+    "title": "Drones With Claws Perch on Arctic Icebergs",
+    "titleCn": "无人机s With Claws Perch on Arctic Icebergs",
+    "summary": "This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore.Microspines are one of many ways to enable robots to latch onto surfaces like walls and ceilings. Now ro...",
+    "summaryCn": "This article is part of our exclusive IEEE Journal Watch series in 合作 with IEEE Xplore.Microspines are one of many ways to enable 机器人 to latch onto surfaces like walls and ceilings. Now ro",
+    "source": "IEEE Spectrum",
+    "date": "2026-08-18",
+    "link": "https://spectrum.ieee.org/arctic-iceberg-drones",
+    "type": "research",
+    "domain": "drone"
+  },
+  {
+    "id": "aHR0cHM6Ly9z",
     "title": "Is Shipyard Welding the Right First Job for Humanoid Robots?",
     "titleCn": "Is Shipyard 焊接 the Right First Job for 人形机器人s?",
     "summary": "Humanoids desperately need to stop making YouTube videos and get a job already, and Persona AI is one of the few humanoid companies which seems to be entirely focused on making that happen. Persona’s ...",
@@ -346,17 +358,5 @@
     "link": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
     "type": "product",
     "domain": "components"
-  },
-  {
-    "id": "aHR0cHM6Ly9z",
-    "title": "Video Friday: Watch This Running Robot Not Fall Down Stairs",
-    "titleCn": "Video Friday: Watch This Running 机器人 Not Fall Down Stairs",
-    "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
-    "summaryCn": "Video Friday is your weekly selection of awesome 机器人s videos, collected by your friends at IEEE Spectrum 机器人s. We also post a weekly calendar of upcoming 机器人s events for the next few month",
-    "source": "IEEE Spectrum",
-    "date": "2026-06-05",
-    "link": "https://spectrum.ieee.org/video-friday-humanoid-robot-running",
-    "type": "industry",
-    "domain": "humanoid"
   }
 ]

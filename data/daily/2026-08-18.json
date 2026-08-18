@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-18",
+  "title": "ROBOT HOT 日报 — 2026-08-18",
+  "totalItems": 1,
+  "sections": [
+    {
+      "key": "drone",
+      "label": "无人机/移动",
+      "emoji": "🚁",
+      "count": 1,
+      "items": [
+        {
+          "title": "Drones With Claws Perch on Arctic Icebergs",
+          "titleCn": "无人机s With Claws Perch on Arctic Icebergs",
+          "summary": "This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore.Microspines are one of many ways to enable robots to latch onto surfaces like walls and ceilings. Now ro...",
+          "summaryCn": "This article is part of our exclusive IEEE Journal Watch series in 合作 with IEEE Xplore.Microspines are one of many ways to enable 机器人 to latch onto surfaces like walls and ceilings. Now ro",
+          "source": "IEEE Spectrum",
+          "link": "https://spectrum.ieee.org/arctic-iceberg-drones",
+          "type": "research"
+        }
+      ]
+    }
+  ]
+}
