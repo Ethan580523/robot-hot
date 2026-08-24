@@ -1,6 +1,18 @@
 [
   {
     "id": "aHR0cHM6Ly9z",
+    "title": "Video Friday: Do We Need Superhuman Humanoid Robots?",
+    "titleCn": "Video Friday: Do We Need Superhuman 人形机器人s?",
+    "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
+    "summaryCn": "Video Friday is your weekly selection of awesome 机器人s videos, collected by your friends at IEEE Spectrum 机器人s. We also post a weekly calendar of upcoming 机器人s events for the next few month",
+    "source": "IEEE Spectrum",
+    "date": "2026-08-21",
+    "link": "https://spectrum.ieee.org/video-friday-unitree-superhuman",
+    "type": "product",
+    "domain": "humanoid"
+  },
+  {
+    "id": "aHR0cHM6Ly9z",
     "title": "Drones With Claws Perch on Arctic Icebergs",
     "titleCn": "无人机s With Claws Perch on Arctic Icebergs",
     "summary": "This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore.Microspines are one of many ways to enable robots to latch onto surfaces like walls and ceilings. Now ro...",
@@ -346,17 +358,5 @@
     "link": "https://spectrum.ieee.org/agilink-contact-intelligence-robot-manipulation",
     "type": "research",
     "domain": "research"
-  },
-  {
-    "id": "aHR0cHM6Ly9z",
-    "title": "How JPL Keeps the 13-Year-Old Curiosity Rover Doing Science",
-    "titleCn": "How JPL Keeps the 13-Year-Old Curiosity Rover Doing Science",
-    "summary": "Thirteen years ago last August, I was camped out in NASA’s Jet Propulsion Laboratory press room in Pasadena, Calif., waiting to see whether the Curiosity rover would survive its descent and skycrane-a...",
-    "summaryCn": "Thirteen years ago last August, I was camped out in NASA’s Jet Propulsion Laboratory press room in Pasadena, Calif., waiting to see whether the Curiosity rover would survive its descent and skycrane-a",
-    "source": "IEEE Spectrum",
-    "date": "2026-06-09",
-    "link": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
-    "type": "product",
-    "domain": "components"
   }
 ]
