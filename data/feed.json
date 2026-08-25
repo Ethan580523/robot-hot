@@ -1,6 +1,18 @@
 [
   {
     "id": "aHR0cHM6Ly9z",
+    "title": "AI Companion Robots Are Closing the Human Connection in Modern Homes",
+    "titleCn": "AI Companion 机器人 Are Closing the Human Connection in Modern Homes",
+    "summary": "This article is brought to you by Ollobot.From about 2017, individuals began to truly connect with the initial wave of companion robots. These devices had personality, moved around, joked, and answere...",
+    "summaryCn": "This article is brought to you by Ollobot.From about 2017, individuals began to truly connect with the initial wave of companion 机器人. These devices had personality, moved around, joked, and answere",
+    "source": "IEEE Spectrum",
+    "date": "2026-08-25",
+    "link": "https://spectrum.ieee.org/ollobot-ai-companion-robot",
+    "type": "research",
+    "domain": "research"
+  },
+  {
+    "id": "aHR0cHM6Ly9z",
     "title": "Video Friday: Do We Need Superhuman Humanoid Robots?",
     "titleCn": "Video Friday: Do We Need Superhuman 人形机器人s?",
     "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
@@ -346,17 +358,5 @@
     "link": "https://content.knowledgehub.wiley.com/wellness-robots-and-the-path-to-full-autonomy-a-new-paradigm-in-ai-powered-senior-care/",
     "type": "research",
     "domain": "service"
-  },
-  {
-    "id": "aHR0cHM6Ly9z",
-    "title": "Beyond Dexterity: Why Contact May Define the Next Era of Robotics",
-    "titleCn": "Beyond Dexterity: Why Contact May Define the Next Era of 机器人s",
-    "summary": "This article is brought to you by AGILINK.Throughout the exhibition hall at the 2026 IEEE International Conference on Robotics (ICRA), in Vienna, one demonstration seemed to attract a disproportionate...",
-    "summaryCn": "This article is brought to you by AGILINK.Throughout the exhibition hall at the 2026 IEEE International Conference on 机器人s (ICRA), in Vienna, one demonstration seemed to attract a disproportionate",
-    "source": "IEEE Spectrum",
-    "date": "2026-06-09",
-    "link": "https://spectrum.ieee.org/agilink-contact-intelligence-robot-manipulation",
-    "type": "research",
-    "domain": "research"
   }
 ]
