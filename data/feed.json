@@ -1,6 +1,18 @@
 [
   {
     "id": "aHR0cHM6Ly9z",
+    "title": "Video Friday: Meet Microduck",
+    "titleCn": "Video Friday: Meet Microduck",
+    "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
+    "summaryCn": "Video Friday is your weekly selection of awesome 机器人s videos, collected by your friends at IEEE Spectrum 机器人s. We also post a weekly calendar of upcoming 机器人s events for the next few month",
+    "source": "IEEE Spectrum",
+    "date": "2026-08-28",
+    "link": "https://spectrum.ieee.org/video-friday-microduck-robot",
+    "type": "product",
+    "domain": "humanoid"
+  },
+  {
+    "id": "aHR0cHM6Ly9z",
     "title": "AI Companion Robots Are Closing the Human Connection in Modern Homes",
     "titleCn": "AI Companion 机器人 Are Closing the Human Connection in Modern Homes",
     "summary": "This article is brought to you by Ollobot.From about 2017, individuals began to truly connect with the initial wave of companion robots. These devices had personality, moved around, joked, and answere...",
@@ -346,17 +358,5 @@
     "link": "https://spectrum.ieee.org/video-friday-humanoid-loco-manipulation",
     "type": "product",
     "domain": "humanoid"
-  },
-  {
-    "id": "aHR0cHM6Ly9j",
-    "title": "Defining Autonomy for Wellness Robots in Senior Care",
-    "titleCn": "Defining 自主性 for Wellness 机器人 in Senior Care",
-    "summary": "An examination of how socially assistive wellness robots could support the seven dimensions of senior wellness, and how a framework can measure their autonomy.What Attendees will LearnWhy the senior c...",
-    "summaryCn": "An examination of how socially assistive wellness 机器人 could support the seven dimensions of senior wellness, and how a 框架 can measure their 自主性.What Attendees will LearnWhy the senior c",
-    "source": "IEEE Spectrum",
-    "date": "2026-06-11",
-    "link": "https://content.knowledgehub.wiley.com/wellness-robots-and-the-path-to-full-autonomy-a-new-paradigm-in-ai-powered-senior-care/",
-    "type": "research",
-    "domain": "service"
   }
 ]
