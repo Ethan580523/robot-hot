@@ -1,6 +1,30 @@
 [
   {
     "id": "aHR0cHM6Ly9z",
+    "title": "Protecting Dynamic Industrial Robot Cable Carriers",
+    "titleCn": "Protecting Dynamic Industrial 机器人 Cable Carriers",
+    "summary": "This article is brought to you by Tsubaki KabelSchlepp.In modern automated manufacturing, six-axis articulated robots perform high-speed, multidirectional maneuvers under demanding operational cycles....",
+    "summaryCn": "This article is brought to you by Tsubaki KabelSchlepp.In modern automated 制造, six-axis articulated 机器人 perform high-speed, multidirectional maneuvers under demanding operational cycles.",
+    "source": "IEEE Spectrum",
+    "date": "2026-09-03",
+    "link": "https://spectrum.ieee.org/industrial-robot-cable-carrier-protection",
+    "type": "product",
+    "domain": "industrial"
+  },
+  {
+    "id": "aHR0cHM6Ly9z",
+    "title": "The Best Way to Explore Lunar Craters Is a Giant Robot Ball",
+    "titleCn": "The Best Way to Explore Lunar Craters Is a Giant 机器人 Ball",
+    "summary": "On a good day, the rock quarry in central Texas is about 370,000 kilometers (230,000 miles) from the moon. But last February, when Rishi Jangale watched his 1.8-meter-wide, 150-kilogram inflatable rob...",
+    "summaryCn": "On a good day, the rock quarry in central Texas is about 370,000 kilometers (230,000 miles) from the moon. But last February, when Rishi Jangale watched his 1.8-meter-wide, 150-kilogram inflatable rob",
+    "source": "IEEE Spectrum",
+    "date": "2026-09-03",
+    "link": "https://spectrum.ieee.org/moon-ball-robot",
+    "type": "product",
+    "domain": "components"
+  },
+  {
+    "id": "aHR0cHM6Ly9z",
     "title": "Video Friday: Meet Microduck",
     "titleCn": "Video Friday: Meet Microduck",
     "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
@@ -334,29 +358,5 @@
     "link": "https://spectrum.ieee.org/robot-emotions-visual-language-models",
     "type": "research",
     "domain": "research"
-  },
-  {
-    "id": "aHR0cHM6Ly9z",
-    "title": "Award-Winning Researcher Trains Robots to Make Educated Guesses",
-    "titleCn": "Award-Winning 研究er Trains 机器人 to Make Educated Guesses",
-    "summary": "Yen-Ling Kuo always wanted to understand how things worked. When she was growing up in Taiwan, reading the story of Michael Faraday in elementary school piqued her curiosity about the natural world. D...",
-    "summaryCn": "Yen-Ling Kuo always wanted to understand how things worked. When she was growing up in Taiwan, reading the story of Michael Faraday in elementary school piqued her curiosity about the natural world. D",
-    "source": "IEEE Spectrum",
-    "date": "2026-06-12",
-    "link": "https://spectrum.ieee.org/researcher-trains-robots-to-guess",
-    "type": "research",
-    "domain": "research"
-  },
-  {
-    "id": "aHR0cHM6Ly9z",
-    "title": "Video Friday: Robotic Motion Discovery Reveals Unusual Behaviors",
-    "titleCn": "Video Friday: 机器人 Motion Discovery Reveals Unusual Behaviors",
-    "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
-    "summaryCn": "Video Friday is your weekly selection of awesome 机器人s videos, collected by your friends at IEEE Spectrum 机器人s. We also post a weekly calendar of upcoming 机器人s events for the next few month",
-    "source": "IEEE Spectrum",
-    "date": "2026-06-12",
-    "link": "https://spectrum.ieee.org/video-friday-humanoid-loco-manipulation",
-    "type": "product",
-    "domain": "humanoid"
   }
 ]
