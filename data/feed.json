@@ -1,6 +1,30 @@
 [
   {
     "id": "aHR0cHM6Ly9z",
+    "title": "Cyborg Roaches Can Stab You With Needles",
+    "titleCn": "Cyborg Roaches Can Stab You With Needles",
+    "summary": "Imagine you are trapped under rubble after an earthquake and you see an electronics-covered cockroach with a spring-loaded needle on its back scuttling toward you. Although the sight might be unnervin...",
+    "summaryCn": "Imagine you are trapped under rubble after an earthquake and you see an electronics-covered cockroach with a spring-loaded needle on its back scuttling toward you. Although the sight might be unnervin",
+    "source": "IEEE Spectrum",
+    "date": "2026-09-05",
+    "link": "https://spectrum.ieee.org/cyborg-rescue-roach",
+    "type": "research",
+    "domain": "research"
+  },
+  {
+    "id": "aHR0cHM6Ly9z",
+    "title": "Video Friday: Digit Redecorates",
+    "titleCn": "Video Friday: Digit Redecorates",
+    "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
+    "summaryCn": "Video Friday is your weekly selection of awesome 机器人s videos, collected by your friends at IEEE Spectrum 机器人s. We also post a weekly calendar of upcoming 机器人s events for the next few month",
+    "source": "IEEE Spectrum",
+    "date": "2026-09-04",
+    "link": "https://spectrum.ieee.org/video-friday-agility-robotics-digit",
+    "type": "product",
+    "domain": "humanoid"
+  },
+  {
+    "id": "aHR0cHM6Ly9z",
     "title": "Protecting Dynamic Industrial Robot Cable Carriers",
     "titleCn": "Protecting Dynamic Industrial 机器人 Cable Carriers",
     "summary": "This article is brought to you by Tsubaki KabelSchlepp.In modern automated manufacturing, six-axis articulated robots perform high-speed, multidirectional maneuvers under demanding operational cycles....",
@@ -334,29 +358,5 @@
     "link": "https://spectrum.ieee.org/amazon-astro-robot-sound",
     "type": "industry",
     "domain": "embodied"
-  },
-  {
-    "id": "aHR0cHM6Ly9z",
-    "title": "The Secret to Marathon-Winning Humanoid Robots",
-    "titleCn": "The Secret to Marathon-Winning 人形机器人s",
-    "summary": "On 19 April 2026, the Honor Lightning humanoid robot ran a half-marathon in 50 minutes and 26 seconds, beating the human world record by 7 minutes and the best robot time from 2025 by almost 2 hours.H...",
-    "summaryCn": "On 19 April 2026, the Honor Lightning 人形机器人 ran a half-marathon in 50 minutes and 26 seconds, beating the human world record by 7 minutes and the best 机器人 time from 2025 by almost 2 hours.H",
-    "source": "IEEE Spectrum",
-    "date": "2026-06-17",
-    "link": "https://spectrum.ieee.org/china-humanoid-robot-marathon",
-    "type": "industry",
-    "domain": "humanoid"
-  },
-  {
-    "id": "aHR0cHM6Ly9z",
-    "title": "Visual Language Models Train Robots to Read Human Emotions",
-    "titleCn": "Visual Language Models Train 机器人 to Read Human Emotions",
-    "summary": "This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore. As robots advance in terms of dexterity and other physical capabilities, it becomes more likely that hu...",
-    "summaryCn": "This article is part of our exclusive IEEE Journal Watch series in 合作 with IEEE Xplore. As 机器人 advance in terms of dexterity and other physical capabilities, it becomes more likely that hu",
-    "source": "IEEE Spectrum",
-    "date": "2026-06-13",
-    "link": "https://spectrum.ieee.org/robot-emotions-visual-language-models",
-    "type": "research",
-    "domain": "research"
   }
 ]

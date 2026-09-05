@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-05",
+  "title": "ROBOT HOT 日报 — 2026-09-05",
+  "totalItems": 1,
+  "sections": [
+    {
+      "key": "research",
+      "label": "学术研究",
+      "emoji": "📄",
+      "count": 1,
+      "items": [
+        {
+          "title": "Cyborg Roaches Can Stab You With Needles",
+          "titleCn": "Cyborg Roaches Can Stab You With Needles",
+          "summary": "Imagine you are trapped under rubble after an earthquake and you see an electronics-covered cockroach with a spring-loaded needle on its back scuttling toward you. Although the sight might be unnervin...",
+          "summaryCn": "Imagine you are trapped under rubble after an earthquake and you see an electronics-covered cockroach with a spring-loaded needle on its back scuttling toward you. Although the sight might be unnervin",
+          "source": "IEEE Spectrum",
+          "link": "https://spectrum.ieee.org/cyborg-rescue-roach",
+          "type": "research"
+        }
+      ]
+    }
+  ]
+}
