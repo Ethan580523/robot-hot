@@ -1,7 +1,7 @@
 {
   "date": "2026-06-19",
   "title": "ROBOT HOT 日报 — 2026-06-19",
-  "totalItems": 2,
+  "totalItems": 1,
   "sections": [
     {
       "key": "research",
@@ -16,23 +16,6 @@
           "summaryCn": "Video Friday is your weekly selection of awesome 机器人s videos, collected by your friends at IEEE Spectrum 机器人s. We also post a weekly calendar of upcoming 机器人s events for the next few month",
           "source": "IEEE Spectrum",
           "link": "https://spectrum.ieee.org/video-friday-agentic-ai-robot",
-          "type": "industry"
-        }
-      ]
-    },
-    {
-      "key": "embodied",
-      "label": "具身智能",
-      "emoji": "🧠",
-      "count": 1,
-      "items": [
-        {
-          "title": "What Amazon’s Astro Taught Me About Giving Robots a Soul",
-          "titleCn": "What Amazon’s Astro Taught Me About Giving 机器人 a Soul",
-          "summary": "In 2018, Amazon brought me in as the lead UX Sound Designer for Astro, its first consumer home robot. Astro used cameras and other sensors to map and navigate your home and workplace, and could proact...",
-          "summaryCn": "In 2018, Amazon brought me in as the lead UX Sound Designer for Astro, its first consumer home 机器人. Astro used cameras and other 传感器s to map and navigate your home and workplace, and could proact",
-          "source": "IEEE Spectrum",
-          "link": "https://spectrum.ieee.org/amazon-astro-robot-sound",
           "type": "industry"
         }
       ]

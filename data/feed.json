@@ -1,6 +1,18 @@
 [
   {
     "id": "aHR0cHM6Ly9z",
+    "title": "This Robot Will Draw Your Blood Now",
+    "titleCn": "This 机器人 Will Draw Your Blood Now",
+    "summary": "You sit down and put your arm in the cradle. You press a button. The machine takes it from there.A near-infrared light sweeps your inner elbow, hunting for a vein. A puff of alcohol hits your skin. An...",
+    "summaryCn": "You sit down and put your 机械臂 in the cradle. You press a button. The machine takes it from there.A near-infrared light sweeps your inner elbow, hunting for a vein. A puff of alcohol hits your skin. An",
+    "source": "IEEE Spectrum",
+    "date": "2026-09-07",
+    "link": "https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta",
+    "type": "product",
+    "domain": "service"
+  },
+  {
+    "id": "aHR0cHM6Ly9z",
     "title": "Cyborg Roaches Can Stab You With Needles",
     "titleCn": "Cyborg Roaches Can Stab You With Needles",
     "summary": "Imagine you are trapped under rubble after an earthquake and you see an electronics-covered cockroach with a spring-loaded needle on its back scuttling toward you. Although the sight might be unnervin...",
@@ -346,17 +358,5 @@
     "link": "https://spectrum.ieee.org/video-friday-agentic-ai-robot",
     "type": "industry",
     "domain": "research"
-  },
-  {
-    "id": "aHR0cHM6Ly9z",
-    "title": "What Amazon’s Astro Taught Me About Giving Robots a Soul",
-    "titleCn": "What Amazon’s Astro Taught Me About Giving 机器人 a Soul",
-    "summary": "In 2018, Amazon brought me in as the lead UX Sound Designer for Astro, its first consumer home robot. Astro used cameras and other sensors to map and navigate your home and workplace, and could proact...",
-    "summaryCn": "In 2018, Amazon brought me in as the lead UX Sound Designer for Astro, its first consumer home 机器人. Astro used cameras and other 传感器s to map and navigate your home and workplace, and could proact",
-    "source": "IEEE Spectrum",
-    "date": "2026-06-19",
-    "link": "https://spectrum.ieee.org/amazon-astro-robot-sound",
-    "type": "industry",
-    "domain": "embodied"
   }
 ]
