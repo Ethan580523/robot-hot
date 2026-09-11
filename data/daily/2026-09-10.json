@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-10",
+  "title": "ROBOT HOT 日报 — 2026-09-10",
+  "totalItems": 1,
+  "sections": [
+    {
+      "key": "embodied",
+      "label": "具身智能",
+      "emoji": "🧠",
+      "count": 1,
+      "items": [
+        {
+          "title": "Robots Are Learning to Feel",
+          "titleCn": "机器人 Are 学习 to Feel",
+          "summary": "Dexterous manipulation remains one of the biggest barriers keeping robots from successfully tackling a wide range of everyday tasks. A sense of touch could be the key, but a lack of quality data has h...",
+          "summaryCn": "Dexterous 操作 remains one of the biggest barriers keeping 机器人 from successfully tackling a wide range of everyday tasks. A sense of touch could be the key, but a lack of quality data has h",
+          "source": "IEEE Spectrum",
+          "link": "https://spectrum.ieee.org/tactile-data-robots",
+          "type": "research"
+        }
+      ]
+    }
+  ]
+}

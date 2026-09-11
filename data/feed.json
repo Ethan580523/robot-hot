@@ -1,6 +1,18 @@
 [
   {
     "id": "aHR0cHM6Ly9z",
+    "title": "Robots Are Learning to Feel",
+    "titleCn": "机器人 Are 学习 to Feel",
+    "summary": "Dexterous manipulation remains one of the biggest barriers keeping robots from successfully tackling a wide range of everyday tasks. A sense of touch could be the key, but a lack of quality data has h...",
+    "summaryCn": "Dexterous 操作 remains one of the biggest barriers keeping 机器人 from successfully tackling a wide range of everyday tasks. A sense of touch could be the key, but a lack of quality data has h",
+    "source": "IEEE Spectrum",
+    "date": "2026-09-10",
+    "link": "https://spectrum.ieee.org/tactile-data-robots",
+    "type": "research",
+    "domain": "embodied"
+  },
+  {
+    "id": "aHR0cHM6Ly9z",
     "title": "This Robot Will Draw Your Blood Now",
     "titleCn": "This 机器人 Will Draw Your Blood Now",
     "summary": "You sit down and put your arm in the cradle. You press a button. The machine takes it from there.A near-infrared light sweeps your inner elbow, hunting for a vein. A puff of alcohol hits your skin. An...",
@@ -346,17 +358,5 @@
     "link": "https://spectrum.ieee.org/video-friday-robot-grippers",
     "type": "industry",
     "domain": "humanoid"
-  },
-  {
-    "id": "aHR0cHM6Ly9z",
-    "title": "Video Friday: Do Robots Even Need Legs?",
-    "titleCn": "Video Friday: Do 机器人 Even Need Legs?",
-    "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
-    "summaryCn": "Video Friday is your weekly selection of awesome 机器人s videos, collected by your friends at IEEE Spectrum 机器人s. We also post a weekly calendar of upcoming 机器人s events for the next few month",
-    "source": "IEEE Spectrum",
-    "date": "2026-06-19",
-    "link": "https://spectrum.ieee.org/video-friday-agentic-ai-robot",
-    "type": "industry",
-    "domain": "research"
   }
 ]
