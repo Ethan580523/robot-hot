@@ -63,14 +63,14 @@
     }
   ],
   "domainStats": {
+    "research": 4,
     "embodied": 3,
     "service": 1,
-    "research": 3,
-    "humanoid": 12,
+    "humanoid": 11,
     "industrial": 2,
     "components": 1,
     "drone": 5,
     "policy": 3
   },
-  "lastUpdate": "2026-09-11T10:30:39.578Z"
+  "lastUpdate": "2026-09-11T15:46:07.279Z"
 }
