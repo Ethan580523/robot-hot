@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-16",
+  "title": "ROBOT HOT 日报 — 2026-09-16",
+  "totalItems": 1,
+  "sections": [
+    {
+      "key": "embodied",
+      "label": "具身智能",
+      "emoji": "🧠",
+      "count": 1,
+      "items": [
+        {
+          "title": "Rethinking Robot Safety in the Age of AI",
+          "titleCn": "Rethinking 机器人 安全 in the Age of AI",
+          "summary": "This article is brought to you by VicOne.Robot safety has traditionally asked: Can a machine remain safe when something goes wrong? Physical AI raises a harder question: Can a machine remain safe when...",
+          "summaryCn": "This article is brought to you by VicOne.机器人 安全 has traditionally asked: Can a machine remain safe when something goes wrong? 物理AI 筹集 a harder question: Can a machine remain safe when",
+          "source": "IEEE Spectrum",
+          "link": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
+          "type": "research"
+        }
+      ]
+    }
+  ]
+}
