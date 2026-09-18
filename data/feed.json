@@ -1,6 +1,18 @@
 [
   {
     "id": "aHR0cHM6Ly9z",
+    "title": "Video Friday: Two Birotors Make a Quadrotor",
+    "titleCn": "Video Friday: Two Birotors Make a Quadrotor",
+    "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
+    "summaryCn": "Video Friday is your weekly selection of awesome 机器人s videos, collected by your friends at IEEE Spectrum 机器人s. We also post a weekly calendar of upcoming 机器人s events for the next few month",
+    "source": "IEEE Spectrum",
+    "date": "2026-09-18",
+    "link": "https://spectrum.ieee.org/video-friday-quadrotor-from-birotor",
+    "type": "research",
+    "domain": "components"
+  },
+  {
+    "id": "aHR0cHM6Ly9z",
     "title": "Rethinking Robot Safety in the Age of AI",
     "titleCn": "Rethinking 机器人 安全 in the Age of AI",
     "summary": "This article is brought to you by VicOne.Robot safety has traditionally asked: Can a machine remain safe when something goes wrong? Physical AI raises a harder question: Can a machine remain safe when...",
@@ -346,17 +358,5 @@
     "link": "https://spectrum.ieee.org/ukraine-ground-drones",
     "type": "product",
     "domain": "drone"
-  },
-  {
-    "id": "aHR0cHM6Ly9z",
-    "title": "IEEE Honors Robotics Pioneer Toshio Fukuda",
-    "titleCn": "IEEE Honors 机器人s Pioneer Toshio Fukuda",
-    "summary": "Toshio Fukuda has been blazing trails for most of his career. He is considered to be one of the most prolific scholars in robotics, writing more than 2,000 research papers and authoring several books ...",
-    "summaryCn": "Toshio Fukuda has been blazing trails for most of his career. He is considered to be one of the most prolific scholars in 机器人s, writing more than 2,000 研究 论文s and authoring several books ",
-    "source": "IEEE Spectrum",
-    "date": "2026-07-07",
-    "link": "https://spectrum.ieee.org/ieee-honors-toshio-fukuda",
-    "type": "product",
-    "domain": "research"
   }
 ]
