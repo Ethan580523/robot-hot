@@ -1,6 +1,18 @@
 [
   {
     "id": "aHR0cHM6Ly9z",
+    "title": "Video Friday: Life’s Better With a Little Robot Goose",
+    "titleCn": "Video Friday: Life’s Better With a Little 机器人 Goose",
+    "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
+    "summaryCn": "Video Friday is your weekly selection of awesome 机器人s videos, collected by your friends at IEEE Spectrum 机器人s. We also post a weekly calendar of upcoming 机器人s events for the next few month",
+    "source": "IEEE Spectrum",
+    "date": "2026-09-25",
+    "link": "https://spectrum.ieee.org/video-friday-goose-household-robots",
+    "type": "product",
+    "domain": "humanoid"
+  },
+  {
+    "id": "aHR0cHM6Ly9z",
     "title": "Mexican EPICS in IEEE Team Builds Portable Educational Platform",
     "titleCn": "Mexican EPICS in IEEE Team Builds Portable Educational Platform",
     "summary": "In Guadalajara, Mexico, many high schools have motivated teachers and talented students with an interest in science, technology, engineering, and mathematics, but they lack access to advanced tools su...",
@@ -346,17 +358,5 @@
     "link": "https://spectrum.ieee.org/invisible-spinning-drone",
     "type": "research",
     "domain": "drone"
-  },
-  {
-    "id": "aHR0cHM6Ly9z",
-    "title": "Building a Foundation Stack for General-Purpose Robots",
-    "titleCn": "Building a Foundation Stack for General-Purpose 机器人",
-    "summary": "This article is brought to you by X Square Robot.Large language models gave artificial intelligence a working recipe. Pretrain a large model on broad data, and general capability follows. Robotics has...",
-    "summaryCn": "This article is brought to you by X Square 机器人.大语言模型s gave 人工智能 a working recipe. Pretrain a large model on broad data, and general capability follows. 机器人s has",
-    "source": "IEEE Spectrum",
-    "date": "2026-07-13",
-    "link": "https://spectrum.ieee.org/x-square-robot-embodied-ai-stack",
-    "type": "industry",
-    "domain": "embodied"
   }
 ]
