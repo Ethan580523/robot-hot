@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-28",
+  "title": "ROBOT HOT 日报 — 2026-09-28",
+  "totalItems": 1,
+  "sections": [
+    {
+      "key": "research",
+      "label": "学术研究",
+      "emoji": "📄",
+      "count": 1,
+      "items": [
+        {
+          "title": "A Day in the Life of a Roboticist: Charlie Kemp",
+          "titleCn": "A Day in the Life of a 机器人ist: Charlie Kemp",
+          "summary": "Building useful robots starts with understanding the people who use them. For Charlie Kemp, cofounder and chief technology officer of Hello Robot, that means developing assistive robots that can help ...",
+          "summaryCn": "Building useful 机器人 starts with understanding the people who use them. For Charlie Kemp, cofounder and chief technology officer of Hello 机器人, that means developing assistive 机器人 that can help ",
+          "source": "IEEE Spectrum",
+          "link": "https://robotsguide.com/learn/a-day-in-the-life-of-a-roboticist-charlie-kemp",
+          "type": "research"
+        }
+      ]
+    }
+  ]
+}

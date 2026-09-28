@@ -1,5 +1,17 @@
 [
   {
+    "id": "aHR0cHM6Ly9y",
+    "title": "A Day in the Life of a Roboticist: Charlie Kemp",
+    "titleCn": "A Day in the Life of a 机器人ist: Charlie Kemp",
+    "summary": "Building useful robots starts with understanding the people who use them. For Charlie Kemp, cofounder and chief technology officer of Hello Robot, that means developing assistive robots that can help ...",
+    "summaryCn": "Building useful 机器人 starts with understanding the people who use them. For Charlie Kemp, cofounder and chief technology officer of Hello 机器人, that means developing assistive 机器人 that can help ",
+    "source": "IEEE Spectrum",
+    "date": "2026-09-28",
+    "link": "https://robotsguide.com/learn/a-day-in-the-life-of-a-roboticist-charlie-kemp",
+    "type": "research",
+    "domain": "research"
+  },
+  {
     "id": "aHR0cHM6Ly9z",
     "title": "Video Friday: Life’s Better With a Little Robot Goose",
     "titleCn": "Video Friday: Life’s Better With a Little 机器人 Goose",
@@ -346,17 +358,5 @@
     "link": "https://spectrum.ieee.org/video-friday-robotic-surgery",
     "type": "product",
     "domain": "humanoid"
-  },
-  {
-    "id": "aHR0cHM6Ly9z",
-    "title": "How to Make an Invisible Drone",
-    "titleCn": "How to Make an Invisible 无人机",
-    "summary": "There are many words that I would never, ever use to describe a drone. Stealthy. Subtle. Whatever the opposite of obnoxious is. Much of this is because of the giant angry bee sound that drones tend to...",
-    "summaryCn": "There are many words that I would never, ever use to describe a 无人机. Stealthy. Subtle. Whatever the opposite of obnoxious is. Much of this is because of the giant angry bee sound that 无人机s tend to",
-    "source": "IEEE Spectrum",
-    "date": "2026-07-16",
-    "link": "https://spectrum.ieee.org/invisible-spinning-drone",
-    "type": "research",
-    "domain": "drone"
   }
 ]
