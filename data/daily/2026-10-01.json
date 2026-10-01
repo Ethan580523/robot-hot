@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-01",
+  "title": "ROBOT HOT 日报 — 2026-10-01",
+  "totalItems": 1,
+  "sections": [
+    {
+      "key": "humanoid",
+      "label": "人形机器人",
+      "emoji": "🤖",
+      "count": 1,
+      "items": [
+        {
+          "title": "Atlas Robot’s New Hand May Outperform Humanlike Designs",
+          "titleCn": "Atlas 机器人’s New Hand May Outperform Humanlike Designs",
+          "summary": "Today, Boston Dynamics is announcing a redesigned hand for its Atlas robot. The previous generation could do some crazy superhuman things with its three fingers, but it was never intended for mass pro...",
+          "summaryCn": "Today, 波士顿动力 is announcing a redesigned hand for its Atlas 机器人. The previous generation could do some crazy superhuman things with its three fingers, but it was never intended for mass pro",
+          "source": "IEEE Spectrum",
+          "link": "https://spectrum.ieee.org/robust-robot-hand",
+          "type": "product"
+        }
+      ]
+    }
+  ]
+}
