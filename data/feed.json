@@ -1,6 +1,18 @@
 [
   {
     "id": "aHR0cHM6Ly9z",
+    "title": "Video Friday: Albatross Falls, Spins, Self-Rights, and Sails Away",
+    "titleCn": "Video Friday: Albatross Falls, Spins, Self-Rights, and Sails Away",
+    "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
+    "summaryCn": "Video Friday is your weekly selection of awesome 机器人s videos, collected by your friends at IEEE Spectrum 机器人s. We also post a weekly calendar of upcoming 机器人s events for the next few month",
+    "source": "IEEE Spectrum",
+    "date": "2026-10-02",
+    "link": "https://spectrum.ieee.org/video-friday-bioinspired-robotics",
+    "type": "product",
+    "domain": "humanoid"
+  },
+  {
+    "id": "aHR0cHM6Ly9z",
     "title": "Atlas Robot’s New Hand May Outperform Humanlike Designs",
     "titleCn": "Atlas 机器人’s New Hand May Outperform Humanlike Designs",
     "summary": "Today, Boston Dynamics is announcing a redesigned hand for its Atlas robot. The previous generation could do some crazy superhuman things with its three fingers, but it was never intended for mass pro...",
@@ -346,17 +358,5 @@
     "link": "https://spectrum.ieee.org/video-friday-physical-ai-robotics",
     "type": "industry",
     "domain": "embodied"
-  },
-  {
-    "id": "aHR0cHM6Ly9z",
-    "title": "This Graduate Student Equips NASA’s Robots With Assembly Skills",
-    "titleCn": "This Graduate Student Equips NASA’s 机器人 With 装配 Skills",
-    "summary": "Like many engineers, Sarah Downs says she knew she wanted to pursue a STEM career from a young age. As a teenager, she discovered robotics through her Tulsa, Okla., middle school’s First Lego League t...",
-    "summaryCn": "Like many engineers, Sarah Downs says she knew she wanted to pursue a STEM career from a young age. As a teenager, she discovered 机器人s through her Tulsa, Okla., middle school’s First Lego League t",
-    "source": "IEEE Spectrum",
-    "date": "2026-07-17",
-    "link": "https://spectrum.ieee.org/graduate-student-nasas-robots-assembly",
-    "type": "industry",
-    "domain": "policy"
   }
 ]
