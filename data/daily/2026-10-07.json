@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-07",
+  "title": "ROBOT HOT 日报 — 2026-10-07",
+  "totalItems": 1,
+  "sections": [
+    {
+      "key": "research",
+      "label": "学术研究",
+      "emoji": "📄",
+      "count": 1,
+      "items": [
+        {
+          "title": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction",
+          "titleCn": "HiPHI: A Large-Scale 基准测试 for High-Precision Human Motion and Object Interaction",
+          "summary": "This White Paper gives robotics researchers and engineers an overview of a new large-scale motion capture dataset built to close the data gap limiting humanoid robot learning. It also shows how polici...",
+          "summaryCn": "This White 论文 gives 机器人s 研究ers and engineers an overview of a new large-scale motion capture 数据集 built to close the data gap limiting 人形机器人 学习. It also shows how polici",
+          "source": "IEEE Spectrum",
+          "link": "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/",
+          "type": "research"
+        }
+      ]
+    }
+  ]
+}

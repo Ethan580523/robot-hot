@@ -1,5 +1,17 @@
 [
   {
+    "id": "aHR0cHM6Ly9j",
+    "title": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction",
+    "titleCn": "HiPHI: A Large-Scale 基准测试 for High-Precision Human Motion and Object Interaction",
+    "summary": "This White Paper gives robotics researchers and engineers an overview of a new large-scale motion capture dataset built to close the data gap limiting humanoid robot learning. It also shows how polici...",
+    "summaryCn": "This White 论文 gives 机器人s 研究ers and engineers an overview of a new large-scale motion capture 数据集 built to close the data gap limiting 人形机器人 学习. It also shows how polici",
+    "source": "IEEE Spectrum",
+    "date": "2026-10-07",
+    "link": "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/",
+    "type": "research",
+    "domain": "research"
+  },
+  {
     "id": "aHR0cHM6Ly9z",
     "title": "Video Friday: Albatross Falls, Spins, Self-Rights, and Sails Away",
     "titleCn": "Video Friday: Albatross Falls, Spins, Self-Rights, and Sails Away",
@@ -346,17 +358,5 @@
     "link": "https://spectrum.ieee.org/ai-in-robotics",
     "type": "research",
     "domain": "drone"
-  },
-  {
-    "id": "aHR0cHM6Ly9z",
-    "title": "Video Friday: An Italian Humanoid Comes to Life",
-    "titleCn": "Video Friday: An Italian 人形机器人 Comes to Life",
-    "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
-    "summaryCn": "Video Friday is your weekly selection of awesome 机器人s videos, collected by your friends at IEEE Spectrum 机器人s. We also post a weekly calendar of upcoming 机器人s events for the next few month",
-    "source": "IEEE Spectrum",
-    "date": "2026-07-24",
-    "link": "https://spectrum.ieee.org/video-friday-physical-ai-robotics",
-    "type": "industry",
-    "domain": "embodied"
   }
 ]
