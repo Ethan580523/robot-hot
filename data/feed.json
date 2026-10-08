@@ -1,5 +1,17 @@
 [
   {
+    "id": "aHR0cHM6Ly9z",
+    "title": "This Disembodied Hand Is All the Robot You Need",
+    "titleCn": "This Dis具身智能 Hand Is All the 机器人 You Need",
+    "summary": "A hand attached to the end of an arm is a given for most humans, but what if robots didn’t have to play by the same rules as we do? Researchers from ETH Zurich have turned an off-the-shelf robotic han...",
+    "summaryCn": "A hand attached to the end of an 机械臂 is a given for most humans, but what if 机器人 didn’t have to play by the same rules as we do? 研究ers from ETH Zurich have turned an off-the-shelf 机器人 han",
+    "source": "IEEE Spectrum",
+    "date": "2026-10-08",
+    "link": "https://spectrum.ieee.org/walking-robotic-hand",
+    "type": "product",
+    "domain": "embodied"
+  },
+  {
     "id": "aHR0cHM6Ly9j",
     "title": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction",
     "titleCn": "HiPHI: A Large-Scale 基准测试 for High-Precision Human Motion and Object Interaction",
@@ -346,17 +358,5 @@
     "link": "https://spectrum.ieee.org/robot-finger",
     "type": "research",
     "domain": "humanoid"
-  },
-  {
-    "id": "aHR0cHM6Ly9z",
-    "title": "Optical Tech Would Update a Robot’s AI on the Fly",
-    "titleCn": "Optical Tech Would Update a 机器人’s AI on the Fly",
-    "summary": "Atop a lab bench, Cornell Tech postdoctoral researcher Yifan He positions the lens of an optical receiver almost a meter away from an LED emitting a beam of red light. The computer monitor attached to...",
-    "summaryCn": "Atop a lab bench, Cornell Tech postdoctoral 研究er Yifan He positions the lens of an optical receiver almost a meter away from an LED emitting a beam of red light. The computer monitor attached to",
-    "source": "IEEE Spectrum",
-    "date": "2026-07-26",
-    "link": "https://spectrum.ieee.org/ai-in-robotics",
-    "type": "research",
-    "domain": "drone"
   }
 ]

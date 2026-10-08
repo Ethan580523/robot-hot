@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-08",
+  "title": "ROBOT HOT 日报 — 2026-10-08",
+  "totalItems": 1,
+  "sections": [
+    {
+      "key": "embodied",
+      "label": "具身智能",
+      "emoji": "🧠",
+      "count": 1,
+      "items": [
+        {
+          "title": "This Disembodied Hand Is All the Robot You Need",
+          "titleCn": "This Dis具身智能 Hand Is All the 机器人 You Need",
+          "summary": "A hand attached to the end of an arm is a given for most humans, but what if robots didn’t have to play by the same rules as we do? Researchers from ETH Zurich have turned an off-the-shelf robotic han...",
+          "summaryCn": "A hand attached to the end of an 机械臂 is a given for most humans, but what if 机器人 didn’t have to play by the same rules as we do? 研究ers from ETH Zurich have turned an off-the-shelf 机器人 han",
+          "source": "IEEE Spectrum",
+          "link": "https://spectrum.ieee.org/walking-robotic-hand",
+          "type": "product"
+        }
+      ]
+    }
+  ]
+}
