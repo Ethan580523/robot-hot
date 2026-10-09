@@ -1,6 +1,18 @@
 [
   {
     "id": "aHR0cHM6Ly9z",
+    "title": "Video Friday: Robot Decommissioning Takes a Fun Turn",
+    "titleCn": "Video Friday: 机器人 Decommissioning Takes a Fun Turn",
+    "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
+    "summaryCn": "Video Friday is your weekly selection of awesome 机器人s videos, collected by your friends at IEEE Spectrum 机器人s. We also post a weekly calendar of upcoming 机器人s events for the next few month",
+    "source": "IEEE Spectrum",
+    "date": "2026-10-09",
+    "link": "https://spectrum.ieee.org/video-friday-reachy-mini-raps",
+    "type": "research",
+    "domain": "humanoid"
+  },
+  {
+    "id": "aHR0cHM6Ly9z",
     "title": "This Disembodied Hand Is All the Robot You Need",
     "titleCn": "This Dis具身智能 Hand Is All the 机器人 You Need",
     "summary": "A hand attached to the end of an arm is a given for most humans, but what if robots didn’t have to play by the same rules as we do? Researchers from ETH Zurich have turned an off-the-shelf robotic han...",
@@ -345,18 +357,6 @@
     "date": "2026-07-31",
     "link": "https://spectrum.ieee.org/video-robot-gemini2-ai-robot",
     "type": "industry",
-    "domain": "humanoid"
-  },
-  {
-    "id": "aHR0cHM6Ly9z",
-    "title": "Robot Finger Feels in Color",
-    "titleCn": "机器人 Finger Feels in Color",
-    "summary": "Imagine running your fingertip over the surface of a U.S. penny. You would feel the ridges of the raised letters and numbers, Abe Lincoln’s bearded side profile, and, if it’s tails, the fluted columns...",
-    "summaryCn": "Imagine running your fingertip over the surface of a U.S. penny. You would feel the ridges of the raised letters and numbers, Abe Lincoln’s bearded side profile, and, if it’s tails, the fluted columns",
-    "source": "IEEE Spectrum",
-    "date": "2026-07-28",
-    "link": "https://spectrum.ieee.org/robot-finger",
-    "type": "research",
     "domain": "humanoid"
   }
 ]
