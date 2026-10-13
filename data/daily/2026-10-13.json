@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-13",
+  "title": "ROBOT HOT 日报 — 2026-10-13",
+  "totalItems": 1,
+  "sections": [
+    {
+      "key": "components",
+      "label": "核心零部件",
+      "emoji": "⚙️",
+      "count": 1,
+      "items": [
+        {
+          "title": "Q&amp;A: Mars Perseverance Rover Distance Record",
+          "titleCn": "Q&amp;A: Mars Perseverance Rover Distance Record",
+          "summary": "On October 11, the Perseverance rover completed a drive that brought its total distance traveled on Mars to 28.10 miles (45.22 kilometers). This is a new record for Mars rovers, enabled in large part ...",
+          "summaryCn": "On October 11, the Perseverance rover completed a drive that brought its total distance traveled on Mars to 28.10 miles (45.22 kilometers). This is a new record for Mars rovers, enabled in large part ",
+          "source": "IEEE Spectrum",
+          "link": "https://spectrum.ieee.org/mars-rover-distance-record",
+          "type": "research"
+        }
+      ]
+    }
+  ]
+}

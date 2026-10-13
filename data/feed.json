@@ -1,6 +1,18 @@
 [
   {
     "id": "aHR0cHM6Ly9z",
+    "title": "Q&amp;A: Mars Perseverance Rover Distance Record",
+    "titleCn": "Q&amp;A: Mars Perseverance Rover Distance Record",
+    "summary": "On October 11, the Perseverance rover completed a drive that brought its total distance traveled on Mars to 28.10 miles (45.22 kilometers). This is a new record for Mars rovers, enabled in large part ...",
+    "summaryCn": "On October 11, the Perseverance rover completed a drive that brought its total distance traveled on Mars to 28.10 miles (45.22 kilometers). This is a new record for Mars rovers, enabled in large part ",
+    "source": "IEEE Spectrum",
+    "date": "2026-10-13",
+    "link": "https://spectrum.ieee.org/mars-rover-distance-record",
+    "type": "research",
+    "domain": "components"
+  },
+  {
+    "id": "aHR0cHM6Ly9z",
     "title": "Video Friday: Robot Decommissioning Takes a Fun Turn",
     "titleCn": "Video Friday: 机器人 Decommissioning Takes a Fun Turn",
     "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
@@ -346,17 +358,5 @@
     "link": "https://spectrum.ieee.org/humanoid-robots-walden-robotics-toyota",
     "type": "industry",
     "domain": "policy"
-  },
-  {
-    "id": "aHR0cHM6Ly9z",
-    "title": "Video Friday: Meet Google DeepMind’s Gemini Robotics 2",
-    "titleCn": "Video Friday: Meet Google DeepMind’s Gemini 机器人s 2",
-    "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
-    "summaryCn": "Video Friday is your weekly selection of awesome 机器人s videos, collected by your friends at IEEE Spectrum 机器人s. We also post a weekly calendar of upcoming 机器人s events for the next few month",
-    "source": "IEEE Spectrum",
-    "date": "2026-07-31",
-    "link": "https://spectrum.ieee.org/video-robot-gemini2-ai-robot",
-    "type": "industry",
-    "domain": "humanoid"
   }
 ]
