@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-19",
+  "title": "ROBOT HOT 日报 — 2026-10-19",
+  "totalItems": 1,
+  "sections": [
+    {
+      "key": "humanoid",
+      "label": "人形机器人",
+      "emoji": "🤖",
+      "count": 1,
+      "items": [
+        {
+          "title": "The Robot I Didn’t Expect to Build",
+          "titleCn": "The 机器人 I Didn’t Expect to Build",
+          "summary": "Agility Robotics, the company I cofounded out of my robotics lab at Oregon State University in 2015, has just launched Digit 5. It’s designed to be the first humanoid robot that can safely and economi...",
+          "summaryCn": "Agility 机器人s, the company I cofounded out of my 机器人s lab at Oregon State University in 2015, has just 发布ed Digit 5. It’s designed to be the first 人形机器人 that can safely and economi",
+          "source": "IEEE Spectrum",
+          "link": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+          "type": "industry"
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 [
   {
     "id": "aHR0cHM6Ly9z",
+    "title": "The Robot I Didn’t Expect to Build",
+    "titleCn": "The 机器人 I Didn’t Expect to Build",
+    "summary": "Agility Robotics, the company I cofounded out of my robotics lab at Oregon State University in 2015, has just launched Digit 5. It’s designed to be the first humanoid robot that can safely and economi...",
+    "summaryCn": "Agility 机器人s, the company I cofounded out of my 机器人s lab at Oregon State University in 2015, has just 发布ed Digit 5. It’s designed to be the first 人形机器人 that can safely and economi",
+    "source": "IEEE Spectrum",
+    "date": "2026-10-19",
+    "link": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+    "type": "industry",
+    "domain": "humanoid"
+  },
+  {
+    "id": "aHR0cHM6Ly9z",
     "title": "Video Friday: When Two Robots Become One",
     "titleCn": "Video Friday: When Two 机器人 Become One",
     "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
@@ -346,17 +358,5 @@
     "link": "https://spectrum.ieee.org/video-friday-heavy-lift-drone",
     "type": "research",
     "domain": "drone"
-  },
-  {
-    "id": "aHR0cHM6Ly9z",
-    "title": "What Robotics Companies Think About the U.S. Foreign Robot Ban",
-    "titleCn": "What 机器人s Companies Think About the U.S. Foreign 机器人 Ban",
-    "summary": "The U.S. Federal Communications Commission (FCC) “Covered List,” originally published in 2021, identifies communications equipment and services that it says pose a threat to national security. On 28 J...",
-    "summaryCn": "The U.S. Federal Communications Commission (FCC) “Covered List,” originally published in 2021, identifies communications equipment and services that it says pose a threat to national security. On 28 J",
-    "source": "IEEE Spectrum",
-    "date": "2026-08-04",
-    "link": "https://spectrum.ieee.org/fcc-covered-list-mobile-robots",
-    "type": "industry",
-    "domain": "policy"
   }
 ]
