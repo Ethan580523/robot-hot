@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-27",
+  "title": "ROBOT HOT 日报 — 2026-10-27",
+  "totalItems": 1,
+  "sections": [
+    {
+      "key": "research",
+      "label": "学术研究",
+      "emoji": "📄",
+      "count": 1,
+      "items": [
+        {
+          "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
+          "titleCn": "Your 机器人’s 安全 Functions Already Work. What If the Input Lies?",
+          "summary": "This article is brought to you by VicOne.A mobile robot slows for someone in a hallway. A collaborative arm eases its movement as a worker approaches. A humanoid pauses to let a person pass. Each resp...",
+          "summaryCn": "This article is brought to you by VicOne.A mobile 机器人 slows for someone in a hallway. A collaborative 机械臂 eases its movement as a worker approaches. A 人形机器人 pauses to let a person pass. Each resp",
+          "source": "IEEE Spectrum",
+          "link": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
+          "type": "research"
+        }
+      ]
+    }
+  ]
+}
