@@ -1,6 +1,18 @@
 [
   {
     "id": "aHR0cHM6Ly9z",
+    "title": "Are Drone Ports the Next Annoying Tech Neighbor?",
+    "titleCn": "Are 无人机 Ports the Next Annoying Tech Neighbor?",
+    "summary": "Rick and Marcia LeCompte loved to watch the Cooper’s hawks that frequented a sweetgum tree in their yard in Baton Rouge, La. But this October, the hawks were gone. Marcia LeCompte is convinced the bir...",
+    "summaryCn": "Rick and Marcia LeCompte loved to watch the Cooper’s hawks that frequented a sweetgum tree in their yard in Baton Rouge, La. But this October, the hawks were gone. Marcia LeCompte is convinced the bir",
+    "source": "IEEE Spectrum",
+    "date": "2026-11-04",
+    "link": "https://spectrum.ieee.org/drone-delivery-noise",
+    "type": "product",
+    "domain": "drone"
+  },
+  {
+    "id": "aHR0cHM6Ly9z",
     "title": "Video Friday: Spot Plays to Show Its Whole-Body Manipulation",
     "titleCn": "Video Friday: Spot Plays to Show Its Whole-Body 操作",
     "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
@@ -346,17 +358,5 @@
     "link": "https://spectrum.ieee.org/arctic-iceberg-drones",
     "type": "research",
     "domain": "drone"
-  },
-  {
-    "id": "aHR0cHM6Ly9z",
-    "title": "Is Shipyard Welding the Right First Job for Humanoid Robots?",
-    "titleCn": "Is Shipyard 焊接 the Right First Job for 人形机器人s?",
-    "summary": "Humanoids desperately need to stop making YouTube videos and get a job already, and Persona AI is one of the few humanoid companies that seems to be entirely focused on making that happen. Persona AI’...",
-    "summaryCn": "人形机器人s desperately need to stop making YouTube videos and get a job already, and Persona AI is one of the few 人形机器人 companies that seems to be entirely focused on making that happen. Persona AI’",
-    "source": "IEEE Spectrum",
-    "date": "2026-08-17",
-    "link": "https://spectrum.ieee.org/persona-ai-humanoid-robot-welding",
-    "type": "industry",
-    "domain": "humanoid"
   }
 ]
