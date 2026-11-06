@@ -1,6 +1,18 @@
 [
   {
     "id": "aHR0cHM6Ly9z",
+    "title": "Video Friday: Room-Scale Cable-Driven Home Robot Tidies Up",
+    "titleCn": "Video Friday: Room-Scale Cable-Driven Home 机器人 Tidies Up",
+    "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
+    "summaryCn": "Video Friday is your weekly selection of awesome 机器人s videos, collected by your friends at IEEE Spectrum 机器人s. We also post a weekly calendar of upcoming 机器人s events for the next few month",
+    "source": "IEEE Spectrum",
+    "date": "2026-11-06",
+    "link": "https://spectrum.ieee.org/video-friday-home-cable-robot",
+    "type": "research",
+    "domain": "humanoid"
+  },
+  {
+    "id": "aHR0cHM6Ly9z",
     "title": "Are Drone Ports the Next Annoying Tech Neighbor?",
     "titleCn": "Are 无人机 Ports the Next Annoying Tech Neighbor?",
     "summary": "Rick and Marcia LeCompte loved to watch the Cooper’s hawks that frequented a sweet-gum tree in their yard in Baton Rouge, La. But this October, the hawks were gone. Marcia LeCompte is convinced the bi...",
@@ -346,17 +358,5 @@
     "link": "https://spectrum.ieee.org/video-friday-unitree-superhuman",
     "type": "product",
     "domain": "humanoid"
-  },
-  {
-    "id": "aHR0cHM6Ly9z",
-    "title": "Drones With Claws Perch on Arctic Icebergs",
-    "titleCn": "无人机s With Claws Perch on Arctic Icebergs",
-    "summary": "This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore.Microspines are one of many ways to enable robots to latch onto surfaces like walls and ceilings. Now ro...",
-    "summaryCn": "This article is part of our exclusive IEEE Journal Watch series in 合作 with IEEE Xplore.Microspines are one of many ways to enable 机器人 to latch onto surfaces like walls and ceilings. Now ro",
-    "source": "IEEE Spectrum",
-    "date": "2026-08-18",
-    "link": "https://spectrum.ieee.org/arctic-iceberg-drones",
-    "type": "research",
-    "domain": "drone"
   }
 ]
