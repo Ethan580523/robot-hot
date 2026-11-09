@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-09",
+  "title": "ROBOT HOT 日报 — 2026-11-09",
+  "totalItems": 1,
+  "sections": [
+    {
+      "key": "research",
+      "label": "学术研究",
+      "emoji": "📄",
+      "count": 1,
+      "items": [
+        {
+          "title": "Can Agentic Robotics Solve Robotics’ Data Scaling Problem?",
+          "titleCn": "Can Agentic 机器人s Solve 机器人s’ Data Scaling Problem?",
+          "summary": "Robotics companies are investing heavily in the belief that data will solve the most difficult problems in robotics. Once AI systems have ingested enough data from human demonstrations, the thinking g...",
+          "summaryCn": "机器人s companies are investing heavily in the belief that data will solve the most difficult problems in 机器人s. Once AI systems have ingested enough data from human demonstrations, the thinking g",
+          "source": "IEEE Spectrum",
+          "link": "https://spectrum.ieee.org/agentic-robotics",
+          "type": "research"
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,18 @@
 [
   {
     "id": "aHR0cHM6Ly9z",
+    "title": "Can Agentic Robotics Solve Robotics’ Data Scaling Problem?",
+    "titleCn": "Can Agentic 机器人s Solve 机器人s’ Data Scaling Problem?",
+    "summary": "Robotics companies are investing heavily in the belief that data will solve the most difficult problems in robotics. Once AI systems have ingested enough data from human demonstrations, the thinking g...",
+    "summaryCn": "机器人s companies are investing heavily in the belief that data will solve the most difficult problems in 机器人s. Once AI systems have ingested enough data from human demonstrations, the thinking g",
+    "source": "IEEE Spectrum",
+    "date": "2026-11-09",
+    "link": "https://spectrum.ieee.org/agentic-robotics",
+    "type": "research",
+    "domain": "research"
+  },
+  {
+    "id": "aHR0cHM6Ly9z",
     "title": "Video Friday: Room-Scale Cable-Driven Home Robot Tidies Up",
     "titleCn": "Video Friday: Room-Scale Cable-Driven Home 机器人 Tidies Up",
     "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
@@ -346,17 +358,5 @@
     "link": "https://spectrum.ieee.org/ollobot-ai-companion-robot",
     "type": "research",
     "domain": "research"
-  },
-  {
-    "id": "aHR0cHM6Ly9z",
-    "title": "Video Friday: Do We Need Superhuman Humanoid Robots?",
-    "titleCn": "Video Friday: Do We Need Superhuman 人形机器人s?",
-    "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
-    "summaryCn": "Video Friday is your weekly selection of awesome 机器人s videos, collected by your friends at IEEE Spectrum 机器人s. We also post a weekly calendar of upcoming 机器人s events for the next few month",
-    "source": "IEEE Spectrum",
-    "date": "2026-08-21",
-    "link": "https://spectrum.ieee.org/video-friday-unitree-superhuman",
-    "type": "product",
-    "domain": "humanoid"
   }
 ]
