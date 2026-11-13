@@ -1,6 +1,18 @@
 [
   {
     "id": "aHR0cHM6Ly9z",
+    "title": "Video Friday: NASA PROMISEs a New Moon Rover",
+    "titleCn": "Video Friday: NASA PROMISEs a New Moon Rover",
+    "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
+    "summaryCn": "Video Friday is your weekly selection of awesome 机器人s videos, collected by your friends at IEEE Spectrum 机器人s. We also post a weekly calendar of upcoming 机器人s events for the next few month",
+    "source": "IEEE Spectrum",
+    "date": "2026-11-13",
+    "link": "https://spectrum.ieee.org/video-friday-moon-rover-promise",
+    "type": "industry",
+    "domain": "humanoid"
+  },
+  {
+    "id": "aHR0cHM6Ly9z",
     "title": "Can Agentic Robotics Solve Robotics’ Data-Scaling Problem?",
     "titleCn": "Can Agentic 机器人s Solve 机器人s’ Data-Scaling Problem?",
     "summary": "Robotics companies are investing heavily in the belief that data will solve the most difficult problems in robotics. Once AI systems have ingested enough data from human demonstrations, the thinking g...",
@@ -346,17 +358,5 @@
     "link": "https://spectrum.ieee.org/video-friday-microduck-robot",
     "type": "product",
     "domain": "humanoid"
-  },
-  {
-    "id": "aHR0cHM6Ly9z",
-    "title": "AI Companion Robots Are Closing the Human Connection in Modern Homes",
-    "titleCn": "AI Companion 机器人 Are Closing the Human Connection in Modern Homes",
-    "summary": "This article is brought to you by Ollobot.From about 2017, individuals began to truly connect with the initial wave of companion robots. These devices had personality, moved around, joked, and answere...",
-    "summaryCn": "This article is brought to you by Ollobot.From about 2017, individuals began to truly connect with the initial wave of companion 机器人. These devices had personality, moved around, joked, and answere",
-    "source": "IEEE Spectrum",
-    "date": "2026-08-25",
-    "link": "https://spectrum.ieee.org/ollobot-ai-companion-robot",
-    "type": "research",
-    "domain": "research"
   }
 ]
