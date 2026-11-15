@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-15",
+  "title": "ROBOT HOT 日报 — 2026-11-15",
+  "totalItems": 1,
+  "sections": [
+    {
+      "key": "drone",
+      "label": "无人机/移动",
+      "emoji": "🚁",
+      "count": 1,
+      "items": [
+        {
+          "title": "Why Skydio Built a Lopsided Drone",
+          "titleCn": "Why Skydio Built a Lopsided 无人机",
+          "summary": "Skydio’s drones have always been magical. From MIT research and early prototypes to what I would argue is still the most advanced consumer drone ever made, this is a company that makes very cool stuff...",
+          "summaryCn": "Skydio’s 无人机s have always been magical. From MIT 研究 and early prototypes to what I would argue is still the most advanced consumer 无人机 ever made, this is a company that makes very cool stuff",
+          "source": "IEEE Spectrum",
+          "link": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
+          "type": "opinion"
+        }
+      ]
+    }
+  ]
+}

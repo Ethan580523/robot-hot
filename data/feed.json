@@ -1,6 +1,18 @@
 [
   {
     "id": "aHR0cHM6Ly9z",
+    "title": "Why Skydio Built a Lopsided Drone",
+    "titleCn": "Why Skydio Built a Lopsided 无人机",
+    "summary": "Skydio’s drones have always been magical. From MIT research and early prototypes to what I would argue is still the most advanced consumer drone ever made, this is a company that makes very cool stuff...",
+    "summaryCn": "Skydio’s 无人机s have always been magical. From MIT 研究 and early prototypes to what I would argue is still the most advanced consumer 无人机 ever made, this is a company that makes very cool stuff",
+    "source": "IEEE Spectrum",
+    "date": "2026-11-15",
+    "link": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
+    "type": "opinion",
+    "domain": "drone"
+  },
+  {
+    "id": "aHR0cHM6Ly9z",
     "title": "Video Friday: NASA PROMISEs a New Moon Rover",
     "titleCn": "Video Friday: NASA PROMISEs a New Moon Rover",
     "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
@@ -346,17 +358,5 @@
     "link": "https://spectrum.ieee.org/moon-ball-robot",
     "type": "product",
     "domain": "components"
-  },
-  {
-    "id": "aHR0cHM6Ly9z",
-    "title": "Video Friday: Meet Microduck",
-    "titleCn": "Video Friday: Meet Microduck",
-    "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
-    "summaryCn": "Video Friday is your weekly selection of awesome 机器人s videos, collected by your friends at IEEE Spectrum 机器人s. We also post a weekly calendar of upcoming 机器人s events for the next few month",
-    "source": "IEEE Spectrum",
-    "date": "2026-08-28",
-    "link": "https://spectrum.ieee.org/video-friday-microduck-robot",
-    "type": "product",
-    "domain": "humanoid"
   }
 ]
