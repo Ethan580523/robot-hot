@@ -1,6 +1,18 @@
 [
   {
     "id": "aHR0cHM6Ly9z",
+    "title": "Video Friday: Drone Squeezes Itself to Fit Through Tight Spaces",
+    "titleCn": "Video Friday: 无人机 Squeezes Itself to Fit Through Tight Spaces",
+    "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
+    "summaryCn": "Video Friday is your weekly selection of awesome 机器人s videos, collected by your friends at IEEE Spectrum 机器人s. We also post a weekly calendar of upcoming 机器人s events for the next few month",
+    "source": "IEEE Spectrum",
+    "date": "2026-11-20",
+    "link": "https://spectrum.ieee.org/video-friday-morphing-robots-quadrotor",
+    "type": "industry",
+    "domain": "humanoid"
+  },
+  {
+    "id": "aHR0cHM6Ly9z",
     "title": "Can Robots Bring Stroke Surgery to Remote Hospitals?",
     "titleCn": "Can 机器人 Bring Stroke Surgery to Remote 医院s?",
     "summary": "I am practicing brain surgery on a patient lying 6 meters away, out of my sight and reach. I press a foot pedal, activating the controller in my hand, and carefully steer a thin flexible tube called a...",
@@ -346,17 +358,5 @@
     "link": "https://spectrum.ieee.org/cyborg-rescue-roach",
     "type": "research",
     "domain": "research"
-  },
-  {
-    "id": "aHR0cHM6Ly9z",
-    "title": "Video Friday: Digit Redecorates",
-    "titleCn": "Video Friday: Digit Redecorates",
-    "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
-    "summaryCn": "Video Friday is your weekly selection of awesome 机器人s videos, collected by your friends at IEEE Spectrum 机器人s. We also post a weekly calendar of upcoming 机器人s events for the next few month",
-    "source": "IEEE Spectrum",
-    "date": "2026-09-04",
-    "link": "https://spectrum.ieee.org/video-friday-agility-robotics-digit",
-    "type": "product",
-    "domain": "humanoid"
   }
 ]
