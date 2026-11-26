@@ -1,6 +1,18 @@
 [
   {
     "id": "aHR0cHM6Ly9z",
+    "title": "How DARPA Challenged Teams to Bring Robots Into Disaster Triage",
+    "titleCn": "How DARPA Challenged Teams to Bring 机器人 Into Disaster Triage",
+    "summary": "On 5 November, 10 teams descended upon a 52-acre mock town in College Station, Texas called Disaster City. They were there for a nine-day competition to see how well teams of robots and humans could n...",
+    "summaryCn": "On 5 November, 10 teams descended upon a 52-acre mock town in College Station, Texas called Disaster City. They were there for a nine-day competition to see how well teams of 机器人 and humans could n",
+    "source": "IEEE Spectrum",
+    "date": "2026-11-25",
+    "link": "https://spectrum.ieee.org/darpa-triage-challenge-final-robots",
+    "type": "product",
+    "domain": "components"
+  },
+  {
+    "id": "aHR0cHM6Ly9z",
     "title": "Video Friday: Drone Squeezes Itself to Fit Through Tight Spaces",
     "titleCn": "Video Friday: 无人机 Squeezes Itself to Fit Through Tight Spaces",
     "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few month...",
@@ -346,17 +358,5 @@
     "link": "https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta",
     "type": "product",
     "domain": "service"
-  },
-  {
-    "id": "aHR0cHM6Ly9z",
-    "title": "Cyborg Roaches Can Stab You With Needles",
-    "titleCn": "Cyborg Roaches Can Stab You With Needles",
-    "summary": "Imagine you are trapped under rubble after an earthquake and you see an electronics-covered cockroach with a spring-loaded needle on its back scuttling toward you. Although the sight might be unnervin...",
-    "summaryCn": "Imagine you are trapped under rubble after an earthquake and you see an electronics-covered cockroach with a spring-loaded needle on its back scuttling toward you. Although the sight might be unnervin",
-    "source": "IEEE Spectrum",
-    "date": "2026-09-05",
-    "link": "https://spectrum.ieee.org/cyborg-rescue-roach",
-    "type": "research",
-    "domain": "research"
   }
 ]
